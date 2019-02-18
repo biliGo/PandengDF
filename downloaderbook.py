@@ -54,7 +54,11 @@ def load_media():
         pass
 
 def load_ysyk():
-    with open('/Users/guo/PycharmProjects/PandengDF/6.json', encoding='utf-8') as f:
+    url ='/Users/guo/Documents/keep learning/一书一课/必修课/技控革命'
+    os.chdir(url)
+    if not os.path.exists('media'):
+        os.mkdir('media')
+    with open(url+'/1.json', encoding='utf-8') as f:
         dict = json.load(f)
 
     ll = dict['data']['contents']
@@ -62,10 +66,11 @@ def load_ysyk():
     for item in ll:
         contentTitle = item['contentTitle']
         tit = contentTitle.replace(' ', '')
-        title = tit.replace('|', '_')
+        tt = tit.replace('——', '--')
+        title = tt.replace('.', '_')
         audioUrl = item['audioUrl']
 
-        path = r'/Users/guo/PycharmProjects/PandengDF/media/%s.mp3' % title
+        path = url+r'/media/%s.mp3' % title
         do_load_media(audioUrl, path)
         i += 1
         pass

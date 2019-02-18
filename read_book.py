@@ -40,7 +40,7 @@ def loadysyk():
     # print(ll)
 
 def books_video():
-    with open('/Users/guo/PycharmProjects/First/books.json', 'r', encoding='utf-8') as f:
+    with open('/Users/guo/PycharmProjects/PandengDF/books_list_fragmentId.json', 'r', encoding='utf-8') as f:
         dict = json.load(f)
 
     ll = dict['books']
@@ -59,4 +59,9 @@ def books_video():
 
 
 if __name__ == '__main__':
-    loadysyk()
+    # loadysyk()
+    # books_video()
+
+    with open('/Users/guo/PycharmProjects/PandengDF/books_video.json', 'r', encoding='utf-8') as f:
+        ll = json.load(f)
+        print(type(ll))
