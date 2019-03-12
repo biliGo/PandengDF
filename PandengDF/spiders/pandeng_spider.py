@@ -47,7 +47,7 @@ class PandengSpider(scrapy.Spider):
                 headers={'Content-Type': 'application/x-www-form-urlencoded',
                          'Accept': ''},
                 formdata={
-                    'token': '4qWBl9bySjFW9LZBahb',
+                    'token': 'c7O3gSN0FJswegpQtOV',
                     'fragmentId': str(line)
                 },
                 callback=self.parse

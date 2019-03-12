@@ -1,11 +1,511 @@
 {
-	"totalCount": 200,
+	"totalCount": 216,
 	"books": [{
+		"id": 200000044,
+		"title": "你要的是幸福，还是对错",
+		"summary": "婚姻是一场幸福的博弈，需要“斗智斗勇”，更需用心经营。",
+		"recommendation": "一份幸福修炼指南",
+		"imageUrl": "https://file.dushu.io/file/bb5cc67806494823bf52aa0101287866",
+		"contents": [{
+			"type": 1,
+			"fragmentId": 200002482,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}, {
+			"type": 2,
+			"fragmentId": 200002483,
+			"memberOnly": true,
+			"mediaDuration": 3098
+		}, {
+			"type": 3,
+			"fragmentId": 200002484,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}],
+		"memberOnly": true,
+		"readCount": 2088235,
+		"createTime": 1552134600000
+	}, {
+		"id": 200000042,
+		"title": "应对焦虑",
+		"summary": "九种消除焦虑的简单方法",
+		"recommendation": "焦虑者的自我疗愈手册",
+		"imageUrl": "https://file.dushu.io/file/f817580e2fae4864ab55aa00012e4100",
+		"contents": [{
+			"type": 1,
+			"fragmentId": 200002466,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}, {
+			"type": 2,
+			"fragmentId": 200002467,
+			"memberOnly": true,
+			"mediaDuration": 3585
+		}, {
+			"type": 3,
+			"fragmentId": 200002468,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}],
+		"memberOnly": true,
+		"readCount": 3727087,
+		"createTime": 1551529800000
+	}, {
+		"id": 200000041,
+		"title": "高能量姿势",
+		"summary": "两分钟的高能量暴增法",
+		"recommendation": "怯场救星",
+		"imageUrl": "https://file.dushu.io/file/0eb6aff5ad3640e1b791a9fc00fee0c2",
+		"contents": [{
+			"type": 1,
+			"fragmentId": 200002435,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}, {
+			"type": 2,
+			"fragmentId": 200002436,
+			"memberOnly": true,
+			"mediaDuration": 3013
+		}, {
+			"type": 3,
+			"fragmentId": 200002437,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}],
+		"memberOnly": true,
+		"readCount": 4828670,
+		"createTime": 1550925000000
+	}, {
+		"id": 200000040,
+		"title": "用事实说话",
+		"summary": "怎么说人家才愿意听你的？说话要真诚，也需要技巧。",
+		"recommendation": "透明化沟通的8项原则",
+		"imageUrl": "https://file.dushu.io/file/cc3e7e98c4d4415183cfa9fc00fef3b6",
+		"contents": [{
+			"type": 1,
+			"fragmentId": 200002392,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}, {
+			"type": 2,
+			"fragmentId": 200002393,
+			"memberOnly": true,
+			"mediaDuration": 3065
+		}, {
+			"type": 3,
+			"fragmentId": 200002394,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}],
+		"memberOnly": true,
+		"readCount": 6014649,
+		"createTime": 1550320200000
+	}, {
+		"id": 200000038,
+		"title": "AI·未来",
+		"summary": "解析人工智能时代未来十年大趋势",
+		"recommendation": "AI·未来，人机共存",
+		"imageUrl": "https://file.dushu.io/file/1aab8db08a144847b8fea9fc00ff0749",
+		"contents": [{
+			"type": 1,
+			"fragmentId": 200002265,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}, {
+			"type": 2,
+			"fragmentId": 200002264,
+			"memberOnly": true,
+			"mediaDuration": 3816
+		}, {
+			"type": 3,
+			"fragmentId": 200002263,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}],
+		"memberOnly": true,
+		"readCount": 3553767,
+		"createTime": 1549715400000
+	}, {
+		"id": 200000037,
+		"title": "爱因斯坦传",
+		"summary": "最执著的科研精神，最悲悯的人文情怀",
+		"recommendation": "叛逆的光束骑士",
+		"imageUrl": "https://file.dushu.io/file/99b39fe866c94f3b96f8a9fc00ff169d",
+		"contents": [{
+			"type": 1,
+			"fragmentId": 200002260,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}, {
+			"type": 2,
+			"fragmentId": 200002261,
+			"memberOnly": true,
+			"mediaDuration": 3414
+		}, {
+			"type": 3,
+			"fragmentId": 200002262,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}],
+		"memberOnly": true,
+		"readCount": 3732662,
+		"createTime": 1549110600000
+	}, {
+		"id": 200000036,
+		"title": "大学的终结",
+		"summary": "你的孩子将来要上大学吗？上什么样的大学？",
+		"recommendation": "大学的过去、现在和未来",
+		"imageUrl": "https://file.dushu.io/file/b581827ab8e54fcaa087a9fc00ff29f7",
+		"contents": [{
+			"type": 1,
+			"fragmentId": 200002197,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}, {
+			"type": 2,
+			"fragmentId": 200002195,
+			"memberOnly": true,
+			"mediaDuration": 2933
+		}, {
+			"type": 3,
+			"fragmentId": 200002196,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}],
+		"memberOnly": true,
+		"readCount": 3481913,
+		"createTime": 1548505800000
+	}, {
+		"id": 200000035,
+		"title": "人口创新力",
+		"summary": "人口才是创新的潜力股！",
+		"recommendation": "大国崛起在于人",
+		"imageUrl": "https://file.dushu.io/file/14b216b49b5f4b75826ba9fc00ff3f5f",
+		"contents": [{
+			"type": 1,
+			"fragmentId": 200002087,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}, {
+			"type": 2,
+			"fragmentId": 200002088,
+			"memberOnly": true,
+			"mediaDuration": 2113
+		}, {
+			"type": 3,
+			"fragmentId": 200002089,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}],
+		"memberOnly": true,
+		"readCount": 2811190,
+		"createTime": 1547901000000
+	}, {
+		"id": 200000034,
+		"title": "感受爱",
+		"summary": "这是最好的解忧指南，助你在亲密关系中找到生命的甜点时刻。",
+		"recommendation": "“爱无能”疗愈全书",
+		"imageUrl": "https://file.dushu.io/file/43e31767278d4cd4a0eba9fc00ff54b4",
+		"contents": [{
+			"type": 1,
+			"fragmentId": 200002018,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}, {
+			"type": 2,
+			"fragmentId": 200002019,
+			"memberOnly": true,
+			"mediaDuration": 3443
+		}, {
+			"type": 3,
+			"fragmentId": 200002020,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}],
+		"memberOnly": true,
+		"readCount": 7774315,
+		"createTime": 1547296200000
+	}, {
+		"id": 200000033,
+		"title": "行为设计学：打造峰值体验",
+		"summary": "4个大招，助力你的美好生活",
+		"recommendation": "爱意满满的套路宝典",
+		"imageUrl": "https://file.dushu.io/file/96f9132b036b4bb3b320a9fc00ff7628",
+		"contents": [{
+			"type": 1,
+			"fragmentId": 200001988,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}, {
+			"type": 2,
+			"fragmentId": 200001989,
+			"memberOnly": true,
+			"mediaDuration": 3011
+		}, {
+			"type": 3,
+			"fragmentId": 200001990,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}],
+		"memberOnly": true,
+		"readCount": 4984328,
+		"createTime": 1546691400000
+	}, {
+		"id": 200000032,
+		"title": "谣言",
+		"summary": "用科学方法破解谣言的诞生、传播、沉寂、复出。",
+		"recommendation": "你曾信过哪些谣言？",
+		"imageUrl": "https://file.dushu.io/file/17bbada1e35d4541953fa9fc00ff8682",
+		"contents": [{
+			"type": 1,
+			"fragmentId": 200001918,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}, {
+			"type": 2,
+			"fragmentId": 200001920,
+			"memberOnly": true,
+			"mediaDuration": 2618
+		}, {
+			"type": 3,
+			"fragmentId": 200001919,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}],
+		"memberOnly": true,
+		"readCount": 3206837,
+		"createTime": 1546086600000
+	}, {
+		"id": 200000031,
+		"title": "本质",
+		"summary": "四十位传奇企业家，四十载摸爬滚打，现在和你谈一谈直击本质的诀窍",
+		"recommendation": "真正厉害的人都是直击本质的高手",
+		"imageUrl": "https://file.dushu.io/file/1ef713ecb2554d9ea3f0a9fc00ffb830",
+		"contents": [{
+			"type": 1,
+			"fragmentId": 200001900,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}, {
+			"type": 2,
+			"fragmentId": 200001902,
+			"memberOnly": true,
+			"mediaDuration": 2829
+		}, {
+			"type": 3,
+			"fragmentId": 200001901,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}],
+		"memberOnly": true,
+		"readCount": 2753834,
+		"createTime": 1545827400000
+	}, {
+		"id": 200000030,
+		"title": "复杂",
+		"summary": "让你脑洞大开，学会用复杂思维过简单生活。",
+		"recommendation": "“复杂系统”研究的观光指南",
+		"imageUrl": "https://file.dushu.io/file/c6f61c39f46041ea8d81a9fc00ffdcf9",
+		"contents": [{
+			"type": 1,
+			"fragmentId": 200001844,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}, {
+			"type": 2,
+			"fragmentId": 200001859,
+			"memberOnly": true,
+			"mediaDuration": 3322
+		}, {
+			"type": 3,
+			"fragmentId": 200001858,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}],
+		"memberOnly": true,
+		"readCount": 5383339,
+		"createTime": 1545481800000
+	}, {
+		"id": 200000029,
+		"title": "陈志武金融通识课",
+		"summary": "百位CEO推荐，耶鲁教授帮你读懂金融，成为复杂世界的人生赢家！",
+		"recommendation": "国民级财富宝典",
+		"imageUrl": "https://file.dushu.io/file/6e0ad7b0e8cd44aba82ca9fc00ffee47",
+		"contents": [{
+			"type": 1,
+			"fragmentId": 200001822,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}, {
+			"type": 2,
+			"fragmentId": 200001823,
+			"memberOnly": true,
+			"mediaDuration": 3176
+		}, {
+			"type": 3,
+			"fragmentId": 200001824,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}],
+		"memberOnly": true,
+		"readCount": 2470096,
+		"createTime": 1545222600000
+	}, {
+		"id": 200000025,
+		"title": "父母的语言",
+		"summary": "孩子的大脑能有多强大？就看你怎么“说”了。",
+		"recommendation": "最高性价比的育儿秘诀",
+		"imageUrl": "https://file.dushu.io/file/e858c8bff01c4d9c8acaa9fc0100019d",
+		"contents": [{
+			"type": 1,
+			"fragmentId": 200001583,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}, {
+			"type": 2,
+			"fragmentId": 200001585,
+			"memberOnly": true,
+			"mediaDuration": 2548
+		}, {
+			"type": 3,
+			"fragmentId": 200001584,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}],
+		"memberOnly": true,
+		"readCount": 7040834,
+		"createTime": 1544877000000
+	}, {
+		"id": 200000024,
+		"title": "思辨与立场",
+		"summary": "需要勇气的思维诊断书，需要努力的出坑指南，但能让你清醒从容见自己、见众生、见天地",
+		"recommendation": "生活中无处不在的批判性思维工具",
+		"imageUrl": "https://file.dushu.io/file/f0f606e07b084411b597a9fc0100127a",
+		"contents": [{
+			"type": 1,
+			"fragmentId": 200001464,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}, {
+			"type": 2,
+			"fragmentId": 200001468,
+			"memberOnly": true,
+			"mediaDuration": 3223
+		}, {
+			"type": 3,
+			"fragmentId": 200001466,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}],
+		"memberOnly": true,
+		"readCount": 6909494,
+		"createTime": 1544272200000
+	}, {
+		"id": 200000023,
+		"title": "苏东坡传",
+		"summary": "大江东去，老夫犹在你心",
+		"recommendation": "“出局者”苏东坡",
+		"imageUrl": "https://file.dushu.io/file/24a61d36a99b46189981a9fc010021a8",
+		"contents": [{
+			"type": 1,
+			"fragmentId": 200001411,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}, {
+			"type": 2,
+			"fragmentId": 200001410,
+			"memberOnly": true,
+			"mediaDuration": 3059
+		}, {
+			"type": 3,
+			"fragmentId": 200001409,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}],
+		"memberOnly": true,
+		"readCount": 5035027,
+		"createTime": 1543667400000
+	}, {
+		"id": 200000022,
+		"title": "传染",
+		"summary": "从众、特立独行、流行事物……关于你的选择如何产生的秘密。",
+		"recommendation": "是谁在悄悄影响你的决定？",
+		"imageUrl": "https://file.dushu.io/file/db43d925a94d4f35a76fa9fc010030ba",
+		"contents": [{
+			"type": 1,
+			"fragmentId": 200001346,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}, {
+			"type": 2,
+			"fragmentId": 200001344,
+			"memberOnly": true,
+			"mediaDuration": 3262
+		}, {
+			"type": 3,
+			"fragmentId": 200001342,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}],
+		"memberOnly": true,
+		"readCount": 5734934,
+		"createTime": 1543062600000
+	}, {
+		"id": 200000020,
+		"title": "扫除道",
+		"summary": "打扫能改变人心、事业、家庭、社会……平凡小事，一旦彻底做好，就能产生非凡的力量。",
+		"recommendation": "见证厕所扫除如何震撼人心",
+		"imageUrl": "https://file.dushu.io/file/4b24f615432747d29baea9fc01003fda",
+		"contents": [{
+			"type": 1,
+			"fragmentId": 200001209,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}, {
+			"type": 2,
+			"fragmentId": 200001213,
+			"memberOnly": true,
+			"mediaDuration": 3029
+		}, {
+			"type": 3,
+			"fragmentId": 200001222,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}],
+		"memberOnly": true,
+		"readCount": 7129462,
+		"createTime": 1541853000000
+	}, {
+		"id": 200000019,
+		"title": "认知天性",
+		"summary": "11位心理学家耗费10年心血，打破你坚信的学习误区！",
+		"recommendation": "大脑是怎么记住知识的？",
+		"imageUrl": "https://file.dushu.io/file/4821609a457d4b62b4cba9fc010050e6",
+		"contents": [{
+			"type": 1,
+			"fragmentId": 200001133,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}, {
+			"type": 2,
+			"fragmentId": 200001150,
+			"memberOnly": true,
+			"mediaDuration": 2566
+		}, {
+			"type": 3,
+			"fragmentId": 200001151,
+			"memberOnly": true,
+			"mediaDuration": 0
+		}],
+		"memberOnly": true,
+		"readCount": 9201496,
+		"createTime": 1541248200000
+	}, {
 		"id": 200000018,
 		"title": "活好",
 		"summary": "生命短暂，却也漫长。如何活好，此生无憾？在日野原重明105年的岁月感悟中，我们也许能找到答案。",
 		"recommendation": "听百岁智者讲述生命的故事",
-		"imageUrl": "https://file.dushu.io/file/9a8a3757527745569bf8a982009f51a6",
+		"imageUrl": "https://file.dushu.io/file/9121950017af4732b891a9fc01005df5",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 200001078,
@@ -20,17 +520,17 @@
 			"type": 3,
 			"fragmentId": 200001077,
 			"memberOnly": true,
-			"mediaDuration": 3235
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1874436,
+		"readCount": 9905988,
 		"createTime": 1540643400000
 	}, {
 		"id": 200000017,
 		"title": "成吉思汗与今日世界之形成",
 		"summary": "走近真实的草原民族，细说心机权谋背后的深情。",
 		"recommendation": "他居然是这样的铁木真！",
-		"imageUrl": "https://file.dushu.io/file/300ef47fc2474dd1b4b1a98600123a27",
+		"imageUrl": "https://file.dushu.io/file/563cace6316143e298eba9fc0100bdda",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 200001031,
@@ -45,17 +545,17 @@
 			"type": 3,
 			"fragmentId": 200001033,
 			"memberOnly": true,
-			"mediaDuration": 3839
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2675768,
+		"readCount": 6458290,
 		"createTime": 1540038600000
 	}, {
 		"id": 200000016,
 		"title": "掌控谈话",
 		"summary": "连恐怖分子都能说服的谈话术。FBI谈判专家解密谈话独孤九剑，教你掌控谈话，赢得你想要的。",
 		"recommendation": "遇见难缠精别怂，说赢他！",
-		"imageUrl": "https://file.dushu.io/file/b252da550e424508b746a97f014c11e1",
+		"imageUrl": "https://file.dushu.io/file/1a662d3970d041b1b9aba9fc0100caab",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 200000982,
@@ -70,17 +570,17 @@
 			"type": 3,
 			"fragmentId": 200000984,
 			"memberOnly": true,
-			"mediaDuration": 2681
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3388315,
+		"readCount": 8207109,
 		"createTime": 1539433800000
 	}, {
 		"id": 200000015,
 		"title": "运动改造大脑",
 		"summary": "运动时的爽感，是大脑为处于最佳状态而发出的致谢。持续运动，你不仅更聪明，还会更快乐。",
 		"recommendation": "来自神经科学家的脑力提升指南",
-		"imageUrl": "https://file.dushu.io/file/7fe8089f2c1f487eb22ca978011f0bba",
+		"imageUrl": "https://file.dushu.io/file/c927d585832b44e6a0e0a9fc0100d62b",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 200000899,
@@ -95,17 +595,17 @@
 			"type": 3,
 			"fragmentId": 200000901,
 			"memberOnly": true,
-			"mediaDuration": 2986
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2770717,
+		"readCount": 6489064,
 		"createTime": 1538829000000
 	}, {
 		"id": 200000014,
 		"title": "好奇心",
 		"summary": "失去好奇心，人就失去了活力。在书中我们将找到如何保持年轻、如何保持生命力的答案。",
 		"recommendation": "保持对世界满怀热情的秘密",
-		"imageUrl": "https://file.dushu.io/file/807be367f6894c2f94cba97100c7d62e",
+		"imageUrl": "https://file.dushu.io/file/367ed18c8e734b4db272a9fc0100e2a8",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 200000870,
@@ -120,17 +620,17 @@
 			"type": 3,
 			"fragmentId": 200000872,
 			"memberOnly": true,
-			"mediaDuration": 2760
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2013579,
+		"readCount": 3927648,
 		"createTime": 1538224200000
 	}, {
 		"id": 200000013,
 		"title": "一平方米的静心",
 		"summary": "美国静心名师为嘈杂职场打造的静谧课，有境界，有方法，为疲惫心灵降噪",
 		"recommendation": "一份让自己乐在工作的静心邀请",
-		"imageUrl": "https://file.dushu.io/file/af9e9d38aa3c4f04afb2a96b00b31db1",
+		"imageUrl": "https://file.dushu.io/file/6066c79c9f124bf49a17a9fc0100ef90",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 200000823,
@@ -145,17 +645,17 @@
 			"type": 3,
 			"fragmentId": 200000825,
 			"memberOnly": true,
-			"mediaDuration": 3529
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3025981,
+		"readCount": 6916308,
 		"createTime": 1537619400000
 	}, {
 		"id": 200000012,
 		"title": "岁月凶猛",
 		"summary": "人生起落，岁月喟叹，怎样活得不慌？商界思想家冯仑，倾囊传授处世智慧，教你从容应对人生。",
 		"recommendation": "冯仑数十年处世智慧凝结",
-		"imageUrl": "https://file.dushu.io/file/86c16a48e7094ca9a2eba96300bc93d7",
+		"imageUrl": "https://file.dushu.io/file/629e56a7e4dc481589c5a9fc0100fd9c",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 200000778,
@@ -170,17 +670,17 @@
 			"type": 3,
 			"fragmentId": 200000785,
 			"memberOnly": true,
-			"mediaDuration": 2720
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2304515,
+		"readCount": 3574212,
 		"createTime": 1537014600000
 	}, {
 		"id": 200000011,
 		"title": "零售的哲学",
 		"summary": "消费者最需要什么？铃木敏文四十年销售心得，今天都给你。",
 		"recommendation": "值得你看的零售哲学",
-		"imageUrl": "https://file.dushu.io/file/d7a30788753047b189a5a95c011b8465",
+		"imageUrl": "https://file.dushu.io/file/cd8bf1725eaf4bcd9a8fa9fc01010cbc",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 200000694,
@@ -195,17 +695,17 @@
 			"type": 3,
 			"fragmentId": 200000693,
 			"memberOnly": true,
-			"mediaDuration": 2455
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2141749,
+		"readCount": 4605672,
 		"createTime": 1536409800000
 	}, {
 		"id": 200000010,
 		"title": "故事经济学",
 		"summary": "最会讲故事的人，教你设计大家喜闻乐见的故事。",
 		"recommendation": "获得市场认可的故事怎么写",
-		"imageUrl": "https://file.dushu.io/file/8ba772154f4246058ad6a95500bf7c2c",
+		"imageUrl": "https://file.dushu.io/file/a7277b52b91b48b3a783a9fc010143f5",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 200000656,
@@ -220,17 +720,17 @@
 			"type": 3,
 			"fragmentId": 200000658,
 			"memberOnly": true,
-			"mediaDuration": 3400
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2375472,
+		"readCount": 3661833,
 		"createTime": 1535805000000
 	}, {
 		"id": 200000009,
 		"title": "先发影响力",
 		"summary": "两大武器，七个要点，只教一件事：让别人赞同你和你说的话。",
 		"recommendation": "提升自我影响力的大招",
-		"imageUrl": "https://file.dushu.io/file/5df12eafde4047d68a0fa94e0120acff",
+		"imageUrl": "https://file.dushu.io/file/1a94a228fa934461a782a9fc01015158",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 200000607,
@@ -245,17 +745,17 @@
 			"type": 3,
 			"fragmentId": 200000609,
 			"memberOnly": true,
-			"mediaDuration": 2914
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3371122,
+		"readCount": 4974381,
 		"createTime": 1535200200000
 	}, {
 		"id": 200000008,
 		"title": "四时之诗",
 		"summary": "本书精选5万余首唐诗之精华，在那似曾相识的字里行间，带你领略唐诗的四季物候之美。",
 		"recommendation": "蒙曼品最美唐诗",
-		"imageUrl": "https://file.dushu.io/file/849c17dc72e44f7f8eada98900fd49ff",
+		"imageUrl": "https://file.dushu.io/file/ddc37356775e420ea5faa9fc0101915c",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 200000525,
@@ -270,17 +770,17 @@
 			"type": 3,
 			"fragmentId": 200000527,
 			"memberOnly": true,
-			"mediaDuration": 2475
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1784255,
+		"readCount": 2412952,
 		"createTime": 1534595400000
 	}, {
 		"id": 200000006,
 		"title": "热锅上的家庭",
 		"summary": "有多少家庭以特定的方式，上演相爱相杀的戏码。爱的本能人人都有，爱的技巧却需要学习！",
 		"recommendation": "家庭问题背后的心理真相",
-		"imageUrl": "https://file.dushu.io/file/b632dad9859d4296800ea94000d2bdd7",
+		"imageUrl": "https://file.dushu.io/file/2292ad8ffcdd4811b47ea9fc01026203",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 200000453,
@@ -295,17 +795,17 @@
 			"type": 3,
 			"fragmentId": 200000457,
 			"memberOnly": true,
-			"mediaDuration": 3396
+			"mediaDuration": 0
 		}],
-		"memberOnly": false,
-		"readCount": 2714892,
+		"memberOnly": true,
+		"readCount": 5725914,
 		"createTime": 1533990600000
 	}, {
 		"id": 200000005,
 		"title": "万古江河",
 		"summary": "一口气听完中国史，完成中学历史课无法完成的使命——塑造中国人的文化自信！",
 		"recommendation": "中国历史延绵不绝的秘密",
-		"imageUrl": "https://file.dushu.io/file/afe4fa58f8a648068e0ca9390120cb26",
+		"imageUrl": "https://file.dushu.io/file/b45c23f7deed470096d0a9fc01025435",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 200000241,
@@ -320,17 +820,17 @@
 			"type": 3,
 			"fragmentId": 200000283,
 			"memberOnly": true,
-			"mediaDuration": 2497
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2338748,
+		"readCount": 3953486,
 		"createTime": 1533385800000
 	}, {
 		"id": 200000004,
 		"title": "知识大迁移",
 		"summary": "知识从人们深深的脑海里搬迁到了互联网中，如何在这样的世界成为赢家呢？它会告诉你。",
 		"recommendation": "移动时代知识的真正价值",
-		"imageUrl": "https://file.dushu.io/file/6a329e624108408ea8a5a93200f29b44",
+		"imageUrl": "https://file.dushu.io/file/2942197182e24f86bdaca9fc01024687",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 200000122,
@@ -345,17 +845,17 @@
 			"type": 3,
 			"fragmentId": 200000188,
 			"memberOnly": true,
-			"mediaDuration": 3099
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2094661,
+		"readCount": 2894322,
 		"createTime": 1532781000000
 	}, {
 		"id": 200000003,
 		"title": "流量池",
 		"summary": "神州优车、网红小蓝杯营销操盘者杨飞亲授刷屏级流量留存、倍增的实战打法",
 		"recommendation": "爆款打法的流量布局和营销转化",
-		"imageUrl": "https://file.dushu.io/file/c3a2749740324b7d80e5a92b01412fb5",
+		"imageUrl": "https://file.dushu.io/file/82f4162d8ad8495f949da9fc01023a50",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 200000070,
@@ -370,17 +870,17 @@
 			"type": 3,
 			"fragmentId": 200000072,
 			"memberOnly": true,
-			"mediaDuration": 3068
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1563950,
+		"readCount": 2001633,
 		"createTime": 1532176200000
 	}, {
 		"id": 597,
 		"title": "为什么是足球？",
 		"summary": "从人类学、社会学的角度为你分析人类为什么爱足球，以及关于足球的一切。",
 		"recommendation": "解秘人类为足球疯狂的原因",
-		"imageUrl": "https://file.dushu.io/file/e38e84e9e370431f94eba924011f7923",
+		"imageUrl": "https://file.dushu.io/file/b2c6d1d6fca847ec9a58a9fc01022e36",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 200000012,
@@ -395,17 +895,17 @@
 			"type": 3,
 			"fragmentId": 200000014,
 			"memberOnly": true,
-			"mediaDuration": 3155
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1215624,
+		"readCount": 1726579,
 		"createTime": 1531571400000
 	}, {
 		"id": 596,
 		"title": "活法",
 		"summary": "从迷茫小镇青年到两家世界五百强缔造者，全力以赴的生活有你难以想象的精彩。",
 		"recommendation": "经营之圣稻盛和夫的成功之道",
-		"imageUrl": "https://file.dushu.io/file/eb6dd364820e46b4b678a91d0133a097",
+		"imageUrl": "https://file.dushu.io/file/ec70ea50a9b9454698bda9fc01022245",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 6303,
@@ -420,17 +920,17 @@
 			"type": 3,
 			"fragmentId": 6304,
 			"memberOnly": true,
-			"mediaDuration": 3086
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 4106637,
+		"readCount": 6195769,
 		"createTime": 1530966600000
 	}, {
 		"id": 595,
 		"title": "老子、孔子、墨子及其学派",
 		"summary": "走近梁启超先生笔下的诸子百家，掀起肃穆的标签，他们都是各种“老可爱”。",
 		"recommendation": "了解墨子学说的入门书",
-		"imageUrl": "https://file.dushu.io/file/7d988fb8cbf842709cfba91601359975",
+		"imageUrl": "https://file.dushu.io/file/85f35ef514114d0b958ea9fc0102160f",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 6237,
@@ -445,17 +945,17 @@
 			"type": 3,
 			"fragmentId": 6236,
 			"memberOnly": true,
-			"mediaDuration": 2272
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1560012,
+		"readCount": 2515471,
 		"createTime": 1530361800000
 	}, {
 		"id": 594,
 		"title": "商战",
 		"summary": "超越可口可乐只用了6年？“定位之父”教你打赢商战",
 		"recommendation": "人人都该懂一些的商战学",
-		"imageUrl": "https://file.dushu.io/file/52571856c5b040879e8aa91200ee66b0",
+		"imageUrl": "https://file.dushu.io/file/6c3060d257b24c45b569a9fc01020901",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 6145,
@@ -470,17 +970,17 @@
 			"type": 3,
 			"fragmentId": 6147,
 			"memberOnly": true,
-			"mediaDuration": 3173
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2108577,
+		"readCount": 3252657,
 		"createTime": 1529757000000
 	}, {
 		"id": 592,
 		"title": "终身学习：哈佛毕业后的六堂课",
 		"summary": "斯坦福和哈佛都学不到的“人生必修课”：只有持续学习，才能使人生趋于完满。",
 		"recommendation": "教你持续打造终身学习能力",
-		"imageUrl": "https://file.dushu.io/file/ac3cef32ed8740f3b7a4a91200f18d61",
+		"imageUrl": "https://file.dushu.io/file/d2d0a1849b18467fae01a9fc0101f8a7",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 6023,
@@ -495,42 +995,42 @@
 			"type": 3,
 			"fragmentId": 6025,
 			"memberOnly": true,
-			"mediaDuration": 3633
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2957581,
+		"readCount": 4004080,
 		"createTime": 1529152200000
 	}, {
 		"id": 593,
 		"title": "即兴演讲",
 		"summary": "抓手、要点、结构体、呼吁行动，这本书将为你提供实用有效的即兴演讲脚本。",
 		"recommendation": "成为即兴演讲家的实用指南",
-		"imageUrl": "https://file.dushu.io/file/5c0a9ada57f442828e9fa91200f17c2f",
+		"imageUrl": "https://file.dushu.io/file/9a2b6279f16c4381a831a9fc0101eb60",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 6027,
-			"memberOnly": true,
+			"memberOnly": false,
 			"mediaDuration": 0
 		}, {
 			"type": 2,
 			"fragmentId": 6026,
-			"memberOnly": true,
+			"memberOnly": false,
 			"mediaDuration": 3134
 		}, {
 			"type": 3,
 			"fragmentId": 6028,
-			"memberOnly": true,
-			"mediaDuration": 3168
+			"memberOnly": false,
+			"mediaDuration": 0
 		}],
 		"memberOnly": false,
-		"readCount": 5250201,
+		"readCount": 10676899,
 		"createTime": 1528547400000
 	}, {
 		"id": 591,
 		"title": "我们如何走到今天",
 		"summary": "文明出人意料的转折，不可追，但尤可回味。",
 		"recommendation": "一部浪漫而传奇的文明演进史",
-		"imageUrl": "https://file.dushu.io/file/c8c1e43b72d947ecb56ea91200f13094",
+		"imageUrl": "https://file.dushu.io/file/29ff95c546684a618f49a9fc01029a7b",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 5940,
@@ -545,17 +1045,17 @@
 			"type": 3,
 			"fragmentId": 5939,
 			"memberOnly": true,
-			"mediaDuration": 3689
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2375399,
+		"readCount": 3192508,
 		"createTime": 1527942600000
 	}, {
 		"id": 590,
 		"title": "经营者养成笔记",
 		"summary": "人人都在经营，但唯有取得成果，才算真正的经营。",
 		"recommendation": "优衣库创始人公开管理手册",
-		"imageUrl": "https://file.dushu.io/file/3434352f000d4c029adca915009eba05",
+		"imageUrl": "https://file.dushu.io/file/86974209a3f544e58ae7a9fc0102a625",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 5837,
@@ -570,17 +1070,17 @@
 			"type": 3,
 			"fragmentId": 5842,
 			"memberOnly": true,
-			"mediaDuration": 3338
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3362096,
+		"readCount": 6960003,
 		"createTime": 1527337800000
 	}, {
 		"id": 589,
 		"title": "每个人的战争",
 		"summary": "综合前沿科研成果、18年抗癌经验，这是一本有充分科学研究支撑的防癌抗癌指南。",
 		"recommendation": "人和癌症的战争就是和自己的战争",
-		"imageUrl": "https://file.dushu.io/file/a908d88bd7e0445e9fcea915009eca93",
+		"imageUrl": "https://file.dushu.io/file/f5e163b8a8774b5bb8d3a9fc0102b338",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 5748,
@@ -595,17 +1095,17 @@
 			"type": 3,
 			"fragmentId": 5750,
 			"memberOnly": true,
-			"mediaDuration": 3630
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2703862,
+		"readCount": 3576966,
 		"createTime": 1526733000000
 	}, {
 		"id": 588,
 		"title": "谢谢你迟到",
 		"summary": "《世界是平的》作者弗里德曼新作，为我们解析时局，探测未来的宏观之作。",
 		"recommendation": "《世界是平的》作者新作",
-		"imageUrl": "https://file.dushu.io/file/5a6eb93c032c4c4eba7ca93000daaf99",
+		"imageUrl": "https://file.dushu.io/file/a4e5d5b851874e7ca908a9fc0102c136",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 5686,
@@ -620,17 +1120,17 @@
 			"type": 3,
 			"fragmentId": 5688,
 			"memberOnly": true,
-			"mediaDuration": 3124
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2506694,
+		"readCount": 3114827,
 		"createTime": 1526128200000
 	}, {
 		"id": 587,
 		"title": "禅的行囊",
 		"summary": "《寻人不遇》作者比尔·波特又一力作，将禅宗发展的简易脉络娓娓道来。",
 		"recommendation": "一场心灵朝圣之旅",
-		"imageUrl": "https://file.dushu.io/file/5a10dc8f304f4e87bf8ea93000da69ab",
+		"imageUrl": "https://file.dushu.io/file/8a8a832ef01549cc8272a9fc0102d271",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 5646,
@@ -645,17 +1145,17 @@
 			"type": 3,
 			"fragmentId": 5645,
 			"memberOnly": true,
-			"mediaDuration": 3212
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2386999,
+		"readCount": 3141344,
 		"createTime": 1525523400000
 	}, {
 		"id": 586,
 		"title": "终身成长",
 		"summary": "固定思维决定你能用多长时间进入一个专业领域；成长思维决定你能在专业领域走多远。",
 		"recommendation": "重新定义成功的思维模式",
-		"imageUrl": "https://file.dushu.io/file/2dd42c753df54d499d85a93000da8fdd",
+		"imageUrl": "https://file.dushu.io/file/f710089e6ec142899de7a9fc0102dfd3",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 5578,
@@ -670,17 +1170,17 @@
 			"type": 3,
 			"fragmentId": 5580,
 			"memberOnly": true,
-			"mediaDuration": 3543
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 6072716,
+		"readCount": 10560251,
 		"createTime": 1524918600000
 	}, {
 		"id": 585,
 		"title": "数据思维",
 		"summary": "从精准投放广告，到预测并影响美国总统大选，神奇的大数据，是你不能错过的生财之道！",
 		"recommendation": "有趣的统计学入门书",
-		"imageUrl": "https://file.dushu.io/file/4c53cb7d59d04da9a30fa93000da7c70",
+		"imageUrl": "https://file.dushu.io/file/1ecee18ba8534a79b105a9fc0102ed23",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 5504,
@@ -695,17 +1195,17 @@
 			"type": 3,
 			"fragmentId": 5498,
 			"memberOnly": true,
-			"mediaDuration": 2954
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2296434,
+		"readCount": 2713837,
 		"createTime": 1524313800000
 	}, {
 		"id": 584,
 		"title": "增长黑客",
 		"summary": "如何让企业以低成本，实现爆发式增长？这本书，也许会让你有搭汽车变为乘高铁的感觉！",
 		"recommendation": "低成本实现爆发式成长的增长之道",
-		"imageUrl": "https://file.dushu.io/file/5f47d77dd9fd49b4849ea93000a3e6d6",
+		"imageUrl": "https://file.dushu.io/file/f6ff53b52cbb4ec395a0a9fc0102f8e0",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 5429,
@@ -720,17 +1220,17 @@
 			"type": 3,
 			"fragmentId": 5431,
 			"memberOnly": true,
-			"mediaDuration": 3151
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2071881,
+		"readCount": 3188794,
 		"createTime": 1523709000000
 	}, {
 		"id": 583,
 		"title": "寻人不遇",
 		"summary": "上穷碧落下黄泉，两处茫茫皆不见。青山绿水间不见诗人踪迹，却留存隽永诗魂。",
 		"recommendation": "中国古代诗人朝圣之旅",
-		"imageUrl": "https://file.dushu.io/file/3f111200a10a4267ac45a93000aeac6e",
+		"imageUrl": "https://file.dushu.io/file/e7c67df0bb434fa5ba9ea9fc01030601",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 5365,
@@ -745,17 +1245,17 @@
 			"type": 3,
 			"fragmentId": 5367,
 			"memberOnly": true,
-			"mediaDuration": 2886
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3519301,
+		"readCount": 6031415,
 		"createTime": 1523104200000
 	}, {
 		"id": 581,
 		"title": "OKR工作法",
 		"summary": "让你面对一张填得满满的日程表时，一眼看出工作核心。高效工作，不再分心。",
 		"recommendation": "谷歌和领英的高效工作法",
-		"imageUrl": "https://file.dushu.io/file/abf2396bc1544e17b3cca9310101b6b0",
+		"imageUrl": "https://file.dushu.io/file/3bf5e8b846af4a2e9a3ca9fc0103124a",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 5302,
@@ -770,17 +1270,17 @@
 			"type": 3,
 			"fragmentId": 5301,
 			"memberOnly": true,
-			"mediaDuration": 2820
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3986360,
+		"readCount": 5619339,
 		"createTime": 1522499400000
 	}, {
 		"id": 580,
 		"title": "心流",
 		"summary": "积极心理学开山之作，提升效率和幸福的指南。幸福可以量化，走向它还有科学方法。",
 		"recommendation": "积极心理学奠基之作",
-		"imageUrl": "https://file.dushu.io/file/5e507491501b4eb2944da93000da3c7f",
+		"imageUrl": "https://file.dushu.io/file/27c9a0f942ef47e1a187a9fc01034029",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 5240,
@@ -795,17 +1295,17 @@
 			"type": 3,
 			"fragmentId": 5242,
 			"memberOnly": true,
-			"mediaDuration": 3181
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 4653885,
+		"readCount": 6404410,
 		"createTime": 1521894600000
 	}, {
 		"id": 579,
 		"title": "新零售的未来",
 		"summary": "零售连锁巨头的进化之道",
 		"recommendation": "洞悉商业热潮的必读书",
-		"imageUrl": "https://file.dushu.io/file/85b459a9750d438284b9a93000a7f40b",
+		"imageUrl": "https://file.dushu.io/file/3988a6fd50dd4bd8b31ca9fc01034bc0",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 5190,
@@ -820,17 +1320,17 @@
 			"type": 3,
 			"fragmentId": 5192,
 			"memberOnly": true,
-			"mediaDuration": 3130
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2059492,
+		"readCount": 2459197,
 		"createTime": 1521289800000
 	}, {
 		"id": 578,
 		"title": "身体从未忘记",
 		"summary": "受过伤的人，怎么就不能过好这一生？与其困在过去，不如抱着伤口前进。",
 		"recommendation": "心理创伤治疗奠基之作",
-		"imageUrl": "https://file.dushu.io/file/23fc343139ea4cf4b9d5a93000a83b20",
+		"imageUrl": "https://file.dushu.io/file/ec1817ec9b904b50979ca9fc01035a25",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 5154,
@@ -845,17 +1345,17 @@
 			"type": 3,
 			"fragmentId": 5156,
 			"memberOnly": true,
-			"mediaDuration": 2891
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3532569,
+		"readCount": 5098047,
 		"createTime": 1520685000000
 	}, {
 		"id": 577,
 		"title": "他人的力量",
 		"summary": "人际关系的力量，比你想的还重要。寻求更好的人际关系，让你一生受益。",
 		"recommendation": "关于人际关系的科学解读",
-		"imageUrl": "https://file.dushu.io/file/314a5f40a35243539b03a93000aa2a45",
+		"imageUrl": "https://file.dushu.io/file/c19ab382cdd84f729208a9fc01036cbf",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 5123,
@@ -870,17 +1370,17 @@
 			"type": 3,
 			"fragmentId": 5121,
 			"memberOnly": true,
-			"mediaDuration": 2832
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 4354267,
+		"readCount": 6674344,
 		"createTime": 1520080200000
 	}, {
 		"id": 576,
 		"title": "赋能",
 		"summary": "用美军经验打造超级团队",
 		"recommendation": "商业精英热议的年度热词",
-		"imageUrl": "https://file.dushu.io/file/383d08865ad2470a8e05a93000aa60e9",
+		"imageUrl": "https://file.dushu.io/file/207b969358964ffeb46ea9fc01037dcb",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 5022,
@@ -895,17 +1395,17 @@
 			"type": 3,
 			"fragmentId": 5024,
 			"memberOnly": true,
-			"mediaDuration": 2653
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2822763,
+		"readCount": 4389525,
 		"createTime": 1519475400000
 	}, {
 		"id": 575,
 		"title": "生活的哲学",
 		"summary": "在12位杰出哲学家的指引下，了解哲学存在的意义，发现生活之本，遇见人生之美。",
 		"recommendation": "疗愈迷茫的医药箱",
-		"imageUrl": "https://file.dushu.io/file/e0e5e7ba58a24a75aa33a93000aa97b7",
+		"imageUrl": "https://file.dushu.io/file/d7ee8b39cf7240f88dfda9fc01038be0",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 5017,
@@ -920,17 +1420,17 @@
 			"type": 3,
 			"fragmentId": 5020,
 			"memberOnly": true,
-			"mediaDuration": 3278
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3006893,
+		"readCount": 3890612,
 		"createTime": 1518870600000
 	}, {
 		"id": 574,
 		"title": "我们终将遇见爱与孤独",
 		"summary": "以“不跟自己过不去”的蜕变为目标吧！",
 		"recommendation": "张德芬心灵回归之作",
-		"imageUrl": "https://file.dushu.io/file/2322736c2b5143f6a1afa93000aba359",
+		"imageUrl": "https://file.dushu.io/file/3f6ac20af5c34f10bad1a9fc01039d8c",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4993,
@@ -945,17 +1445,17 @@
 			"type": 3,
 			"fragmentId": 4992,
 			"memberOnly": true,
-			"mediaDuration": 3207
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3266686,
+		"readCount": 4322537,
 		"createTime": 1518265800000
 	}, {
 		"id": 573,
 		"title": "内向孩子的潜在优势",
 		"summary": "内向就是不好的吗？一直以来这个词承载了太多的偏见，其实内向孩子们也有着常人无可取代的优势。",
 		"recommendation": "内向性格者的培育指南",
-		"imageUrl": "https://file.dushu.io/file/2ed90b84d8294352a1a9a93000abf8e6",
+		"imageUrl": "https://file.dushu.io/file/03ac3450ac8c4d1f8f9ea9fc0103ab26",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4931,
@@ -970,17 +1470,17 @@
 			"type": 3,
 			"fragmentId": 4948,
 			"memberOnly": true,
-			"mediaDuration": 2270
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2460834,
+		"readCount": 3801841,
 		"createTime": 1517661000000
 	}, {
 		"id": 572,
 		"title": "深度工作",
 		"summary": "提高专注力，你就是行业尖子。让你的“每一丝”脑力，都有回声。",
 		"recommendation": "专注力提升宝典",
-		"imageUrl": "https://file.dushu.io/file/59f9fd87f56d447e9585a93000ac2797",
+		"imageUrl": "https://file.dushu.io/file/8c6f2aee97374a649dcda9fc0103b6f6",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4900,
@@ -995,17 +1495,17 @@
 			"type": 3,
 			"fragmentId": 4902,
 			"memberOnly": true,
-			"mediaDuration": 2640
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3608843,
+		"readCount": 5654112,
 		"createTime": 1517056200000
 	}, {
 		"id": 571,
 		"title": "人生效率手册",
 		"summary": "你不能总在“被同龄人抛弃”的焦虑中度过此生。提高效率，全在此册。",
 		"recommendation": "让计划等于结果",
-		"imageUrl": "https://file.dushu.io/file/1382ab078bbf461fbe0aa93000acb4a0",
+		"imageUrl": "https://file.dushu.io/file/503129dd2f7841319d76a9fc0103ca5f",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4840,
@@ -1020,17 +1520,17 @@
 			"type": 3,
 			"fragmentId": 4842,
 			"memberOnly": true,
-			"mediaDuration": 3166
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3159377,
+		"readCount": 4325425,
 		"createTime": 1516451400000
 	}, {
 		"id": 570,
 		"title": "这不是你的错",
 		"summary": "去他的家族宿命，这与你无关。放过原生家庭，也就放过了自己。",
 		"recommendation": "海灵格家庭创伤疗愈指南",
-		"imageUrl": "https://file.dushu.io/file/aa55d230b348425cbb6fa93000ad173f",
+		"imageUrl": "https://file.dushu.io/file/aa009c3c2687425c9c1ea9fc0103f790",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4765,
@@ -1045,17 +1545,17 @@
 			"type": 3,
 			"fragmentId": 4767,
 			"memberOnly": true,
-			"mediaDuration": 2793
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2719836,
+		"readCount": 3995566,
 		"createTime": 1515846600000
 	}, {
 		"id": 569,
 		"title": "反脆弱",
 		"summary": "真正的英雄主义，是认清了生活的不确定后，转身努力从不确定中获益。",
 		"recommendation": "《黑天鹅》作者新作，颠覆世界观",
-		"imageUrl": "https://file.dushu.io/file/d95ea7cbf95943ea8a2aa93000f282f2",
+		"imageUrl": "https://file.dushu.io/file/c5609a01cdf74bc3b173a9fc0104057f",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4717,
@@ -1070,17 +1570,17 @@
 			"type": 3,
 			"fragmentId": 4729,
 			"memberOnly": true,
-			"mediaDuration": 3328
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2822313,
+		"readCount": 4606657,
 		"createTime": 1515241800000
 	}, {
 		"id": 567,
 		"title": "一念之差",
 		"summary": "生活充满风险，然而却不像你印象中的那样，准备好了吗？",
 		"recommendation": "危机迷你百科全书",
-		"imageUrl": "https://file.dushu.io/file/4115cbea3a4341d09293a93000f2b604",
+		"imageUrl": "https://file.dushu.io/file/93ce2df8cbb24c67b9bba9fc010412a9",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4658,
@@ -1095,17 +1595,17 @@
 			"type": 3,
 			"fragmentId": 4657,
 			"memberOnly": true,
-			"mediaDuration": 2768
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2134647,
+		"readCount": 3134118,
 		"createTime": 1514637000000
 	}, {
 		"id": 565,
 		"title": "穷查理宝典",
 		"summary": "股神巴菲特的导师兼合伙人查理·芒格的智慧箴言录，教你累积财富，更教你做人。",
 		"recommendation": "股神巴菲特力荐",
-		"imageUrl": "https://file.dushu.io/file/dc1e5e84cb074d3f850da93000b5fe2d",
+		"imageUrl": "https://file.dushu.io/file/a1c3c3d12754435fb137a9fc010434fa",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4603,
@@ -1120,17 +1620,17 @@
 			"type": 3,
 			"fragmentId": 4605,
 			"memberOnly": true,
-			"mediaDuration": 3408
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2867534,
+		"readCount": 3887114,
 		"createTime": 1514032200000
 	}, {
 		"id": 563,
 		"title": "好妈妈胜过好老师",
 		"summary": "一个教育专家的16年教子手记，家庭教育问题的百科全书，每个家长都值得学习的实用工具书。",
 		"recommendation": "育儿家教经典",
-		"imageUrl": "https://file.dushu.io/file/b8672237bf2a41679f15a930011f085a",
+		"imageUrl": "https://file.dushu.io/file/3ff8af9bbebe46e88322a9fc010441cb",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4517,
@@ -1145,17 +1645,17 @@
 			"type": 3,
 			"fragmentId": 4515,
 			"memberOnly": true,
-			"mediaDuration": 2672
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2548883,
+		"readCount": 3869911,
 		"createTime": 1513427400000
 	}, {
 		"id": 561,
 		"title": "可复制的领导力",
 		"summary": "轻松掌握领导力、打造核心竞争力",
 		"recommendation": "樊登老师首部个人作品",
-		"imageUrl": "https://file.dushu.io/file/23758eb5313342f99361a93000ff0377",
+		"imageUrl": "https://file.dushu.io/file/e6117e9f42564e419db4a9fc0104624c",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4481,
@@ -1165,22 +1665,22 @@
 			"type": 2,
 			"fragmentId": 4480,
 			"memberOnly": true,
-			"mediaDuration": 3022
+			"mediaDuration": 3021
 		}, {
 			"type": 3,
 			"fragmentId": 4479,
 			"memberOnly": true,
-			"mediaDuration": 3022
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 5418229,
+		"readCount": 9244636,
 		"createTime": 1512822600000
 	}, {
 		"id": 558,
 		"title": "恰如其分的自尊",
 		"summary": "无需自贬，也不要傲娇。自尊的类型有很多种，带你选择刚刚好的那种。",
 		"recommendation": "关于自尊的心理自助书",
-		"imageUrl": "https://file.dushu.io/file/763286b742864894a485a93000f0200e",
+		"imageUrl": "https://file.dushu.io/file/1afa7b0b40a84f6e8562a9fc01047065",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4427,
@@ -1195,17 +1695,17 @@
 			"type": 3,
 			"fragmentId": 4425,
 			"memberOnly": true,
-			"mediaDuration": 2644
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3537548,
+		"readCount": 5300894,
 		"createTime": 1512217800000
 	}, {
 		"id": 556,
 		"title": "睡眠革命",
 		"summary": "曼联御用运动睡眠教练30年研究成果大公开，打破8小时定式，7周彻底改善睡眠质量。",
 		"recommendation": "如何让你的睡眠更高效",
-		"imageUrl": "https://file.dushu.io/file/e5be6fac4fdf4d458785a930011ec530",
+		"imageUrl": "https://file.dushu.io/file/1a4d167b46214c99a1eda9fc01047c5f",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4333,
@@ -1220,17 +1720,17 @@
 			"type": 3,
 			"fragmentId": 4335,
 			"memberOnly": true,
-			"mediaDuration": 3211
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2920775,
+		"readCount": 5669202,
 		"createTime": 1511613000000
 	}, {
 		"id": 555,
 		"title": "思考，快与慢",
 		"summary": "一颗绝顶聪明的大脑，给所有大脑包括它自己写下的鉴定书。你为什么没有想象中的那么理性？",
 		"recommendation": "颠覆认知的心理学经典著作",
-		"imageUrl": "https://file.dushu.io/file/582b2392a1614224b13ea93000f2dabb",
+		"imageUrl": "https://file.dushu.io/file/0e62bf3105d14cd193d9a9fc010489f5",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4304,
@@ -1245,17 +1745,17 @@
 			"type": 3,
 			"fragmentId": 4306,
 			"memberOnly": true,
-			"mediaDuration": 3440
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3623434,
+		"readCount": 5454475,
 		"createTime": 1511008200000
 	}, {
 		"id": 554,
 		"title": "颠覆者：周鸿祎自传",
 		"summary": "一本书读懂互联网大佬和他在的江湖",
 		"recommendation": "颠覆者周鸿祎的养成笔记",
-		"imageUrl": "https://file.dushu.io/file/aa353fb3318a4449baaba930011e87dd",
+		"imageUrl": "https://file.dushu.io/file/53845d8da81b4755995ba9fc01049b72",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4265,
@@ -1270,17 +1770,17 @@
 			"type": 3,
 			"fragmentId": 4264,
 			"memberOnly": true,
-			"mediaDuration": 3579
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1302981,
+		"readCount": 1692489,
 		"createTime": 1510403400000
 	}, {
 		"id": 553,
 		"title": "创新者的窘境",
 		"summary": "如何在创新里少跌跟头、少犯错",
 		"recommendation": "助你打破创新窘境",
-		"imageUrl": "https://file.dushu.io/file/907bb98ac9ba41918e39a930011cb049",
+		"imageUrl": "https://file.dushu.io/file/810a0ff6652d411e9341a9fc0104c298",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4225,
@@ -1295,42 +1795,42 @@
 			"type": 3,
 			"fragmentId": 4227,
 			"memberOnly": true,
-			"mediaDuration": 2847
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1491040,
+		"readCount": 2216233,
 		"createTime": 1509798600000
 	}, {
 		"id": 552,
 		"title": "清单革命",
 		"summary": "清单可以说是你的一张“认知防护网”。你需要清单，更要知道如何利用好清单。",
 		"recommendation": "让清单成为习惯",
-		"imageUrl": "https://file.dushu.io/file/056e5e4ca4d241ab9946a930011cab7d",
+		"imageUrl": "https://file.dushu.io/file/40e60cd2ffcd41cb94cba9fc0104d0b6",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4193,
-			"memberOnly": true,
+			"memberOnly": false,
 			"mediaDuration": 0
 		}, {
 			"type": 2,
 			"fragmentId": 4194,
-			"memberOnly": true,
+			"memberOnly": false,
 			"mediaDuration": 3199
 		}, {
 			"type": 3,
 			"fragmentId": 4195,
-			"memberOnly": true,
-			"mediaDuration": 3209
+			"memberOnly": false,
+			"mediaDuration": 0
 		}],
 		"memberOnly": false,
-		"readCount": 2616958,
+		"readCount": 4899318,
 		"createTime": 1509193800000
 	}, {
 		"id": 551,
 		"title": "叶檀理财课",
 		"summary": "会理财，享生活",
 		"recommendation": "帮你成为理财高手",
-		"imageUrl": "https://file.dushu.io/file/4787a37f7b324ef194dba81700e37567",
+		"imageUrl": "https://file.dushu.io/file/5f7fe8e0e75243d9bf04aa02010443e0",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4178,
@@ -1345,17 +1845,17 @@
 			"type": 3,
 			"fragmentId": 4176,
 			"memberOnly": true,
-			"mediaDuration": 2302
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2237586,
+		"readCount": 2637900,
 		"createTime": 1508848200000
 	}, {
 		"id": 550,
-		"title": "跃迁:成为高手的技术",
+		"title": "跃迁：成为高手的技术",
 		"summary": "方法不对，怎么努力学习都是错。要把有限的精力，投入到无限的机会中去。",
 		"recommendation": "从根源化解知识焦虑",
-		"imageUrl": "https://file.dushu.io/file/29dabc802b094d029cd8a930011c9b23",
+		"imageUrl": "https://file.dushu.io/file/4f2928c261f8466e941ba9fc0104f6cc",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4157,
@@ -1370,17 +1870,17 @@
 			"type": 3,
 			"fragmentId": 4159,
 			"memberOnly": true,
-			"mediaDuration": 3866
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1766758,
+		"readCount": 2482200,
 		"createTime": 1508589000000
 	}, {
 		"id": 549,
 		"title": "怕死：人类行为的驱动力",
 		"summary": "揭开忧愁、不安和欲望的根源。因为怕死，我们更用力地活，举着意义的盾牌，一次次有惊无险。",
 		"recommendation": "搞定不安根源，开始认真生活",
-		"imageUrl": "https://file.dushu.io/file/3af6d13c11664f3bb4d2a930011c93de",
+		"imageUrl": "https://file.dushu.io/file/f70a1a480a794be5950aa9fc01050214",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4122,
@@ -1395,17 +1895,17 @@
 			"type": 3,
 			"fragmentId": 4124,
 			"memberOnly": true,
-			"mediaDuration": 2341
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1451733,
+		"readCount": 1965343,
 		"createTime": 1507984200000
 	}, {
 		"id": 548,
 		"title": "高效能人士的七个习惯",
 		"summary": "在头脑中期待，在实践中创造。积极主动，实现“知己知彼”的高效人生。",
 		"recommendation": "掌握高效人生的简朴秘密",
-		"imageUrl": "https://file.dushu.io/file/8fa110a8e547430ea17aa930011c8eff",
+		"imageUrl": "https://file.dushu.io/file/de8d2787fbec4586a9b8a9fc01051293",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4082,
@@ -1420,17 +1920,17 @@
 			"type": 3,
 			"fragmentId": 4084,
 			"memberOnly": true,
-			"mediaDuration": 3128
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 4758427,
+		"readCount": 7939137,
 		"createTime": 1507379400000
 	}, {
 		"id": 547,
 		"title": "心的重建",
 		"summary": "当你觉得自己“再也走不出来了”的时候，你只是需要这本书。",
 		"recommendation": "身心灵作家张德芬暖心推荐",
-		"imageUrl": "https://file.dushu.io/file/3348f176602344b2a5b2a930011c7f4e",
+		"imageUrl": "https://file.dushu.io/file/c84f63a27ffb4187875fa9fc010520d7",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 4077,
@@ -1445,17 +1945,17 @@
 			"type": 3,
 			"fragmentId": 4076,
 			"memberOnly": true,
-			"mediaDuration": 2613
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2759309,
+		"readCount": 4116260,
 		"createTime": 1506774600000
 	}, {
 		"id": 521,
 		"title": "创新与企业家精神",
 		"summary": "管理学大师彼得·德鲁克经典作品",
 		"recommendation": "全球管理者必读的经典之作！",
-		"imageUrl": "https://file.dushu.io/file/e0e4d6e6a633474fa3cca930011c76ce",
+		"imageUrl": "https://file.dushu.io/file/84c2f82d4c2445dc992ea9fc0105304b",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 3949,
@@ -1470,17 +1970,17 @@
 			"type": 3,
 			"fragmentId": 3947,
 			"memberOnly": true,
-			"mediaDuration": 2513
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1121824,
+		"readCount": 1691749,
 		"createTime": 1506169800000
 	}, {
 		"id": 495,
 		"title": "得民心得天下：王蒙说《孟子》",
 		"summary": "重温儒家经典，打开孟子世界的大门，感悟伟大智慧，培养浩然之气。",
 		"recommendation": "真正读懂伟大的智慧，将受益一生",
-		"imageUrl": "https://file.dushu.io/file/cfd02863031f453fa499a930011c6f06",
+		"imageUrl": "https://file.dushu.io/file/c18e67a316254e60b14ca9fc010540f0",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 3838,
@@ -1495,22 +1995,22 @@
 			"type": 3,
 			"fragmentId": 3840,
 			"memberOnly": true,
-			"mediaDuration": 3739
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1616004,
+		"readCount": 2183056,
 		"createTime": 1505565000000
 	}, {
 		"id": 492,
 		"title": "世界如锦心如梭",
 		"summary": "如果你画出一缕光明，世界就少一片黑暗。旅行所见的美好，一一盛在眼中，终将织在心中。",
 		"recommendation": "人生终要有一场触及灵魂的旅行",
-		"imageUrl": "https://file.dushu.io/file/fda6d4004ffd4926a301a930011c4e0c",
+		"imageUrl": "https://file.dushu.io/file/7b4822de77cf4afc95c6a9fc010553cc",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 3798,
 			"memberOnly": true,
-			"mediaDuration": 3301
+			"mediaDuration": 0
 		}, {
 			"type": 2,
 			"fragmentId": 3797,
@@ -1520,17 +2020,17 @@
 			"type": 3,
 			"fragmentId": 3796,
 			"memberOnly": true,
-			"mediaDuration": 3301
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1460510,
+		"readCount": 1709711,
 		"createTime": 1504960200000
 	}, {
 		"id": 475,
 		"title": "上瘾",
 		"summary": "习惯养成类产品背后的设计秘诀",
 		"recommendation": "为什么游戏会让人上瘾？",
-		"imageUrl": "https://file.dushu.io/file/c1996ada85e84d278e72a930011c4733",
+		"imageUrl": "https://file.dushu.io/file/04893fed2eaa468e97d0a9fc0105aca9",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 3718,
@@ -1545,17 +2045,17 @@
 			"type": 3,
 			"fragmentId": 3716,
 			"memberOnly": true,
-			"mediaDuration": 2793
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1585123,
+		"readCount": 2278509,
 		"createTime": 1504355400000
 	}, {
 		"id": 424,
 		"title": "身心合一的奇迹力量",
 		"summary": "高手对决时的致胜秘诀。只有停止攻击自己，身体的潜能才不会丢盔弃甲而逃。",
 		"recommendation": "自我怀疑的人要抓紧上的一课",
-		"imageUrl": "https://file.dushu.io/file/03961e6378ed4a5f9331a930011c1bee",
+		"imageUrl": "https://file.dushu.io/file/0775e3a27ac14bdcb898a9fc0105ba81",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 3541,
@@ -1570,17 +2070,17 @@
 			"type": 3,
 			"fragmentId": 3543,
 			"memberOnly": true,
-			"mediaDuration": 2565
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2382727,
+		"readCount": 3197421,
 		"createTime": 1503750600000
 	}, {
 		"id": 388,
 		"title": "名创优品没有秘密",
 		"summary": "零售业出奇制胜的秘诀",
 		"recommendation": "逆势崛起，他做对了什么？",
-		"imageUrl": "https://file.dushu.io/file/859a5c162adc46199fb1a930011c1284",
+		"imageUrl": "https://file.dushu.io/file/b4d26567495041659ed5a9fc0105ccda",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 3378,
@@ -1595,17 +2095,17 @@
 			"type": 3,
 			"fragmentId": 3376,
 			"memberOnly": true,
-			"mediaDuration": 3697
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1312269,
+		"readCount": 1561204,
 		"createTime": 1503145800000
 	}, {
 		"id": 386,
 		"title": "为未知而教，为未来而学",
 		"summary": "传统教育存在哪些致命问题？什么才是真正值得学的事情？这本书会给你答案。",
 		"recommendation": "什么才是有价值的学习？",
-		"imageUrl": "https://file.dushu.io/file/04c5f6a9df5241c98b13a930011c0db4",
+		"imageUrl": "https://file.dushu.io/file/3d9a786ded4d4495a2a3a9fc0105db8e",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 3343,
@@ -1620,17 +2120,17 @@
 			"type": 3,
 			"fragmentId": 3345,
 			"memberOnly": true,
-			"mediaDuration": 3253
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1970570,
+		"readCount": 2965052,
 		"createTime": 1502541000000
 	}, {
 		"id": 385,
 		"title": "少有人走的路",
 		"summary": "只有承认人生苦难重重，才能躲开尽量多的苦难。少有人走的路，才通向最美的风景。",
 		"recommendation": "通往成熟之路的指南",
-		"imageUrl": "https://file.dushu.io/file/3574ca19d8b04ce89154a930011be2be",
+		"imageUrl": "https://file.dushu.io/file/c1ea52ef160c48a5a421a9fc0105ed64",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 3307,
@@ -1645,17 +2145,17 @@
 			"type": 3,
 			"fragmentId": 3309,
 			"memberOnly": true,
-			"mediaDuration": 3128
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 4508286,
+		"readCount": 6801797,
 		"createTime": 1501936200000
 	}, {
 		"id": 384,
 		"title": "极致",
 		"summary": "互联网时代的产品设计",
 		"recommendation": "来，偷窥下我们的美好未来",
-		"imageUrl": "https://file.dushu.io/file/837b4eb27da548df89eea930011bd5b9",
+		"imageUrl": "https://file.dushu.io/file/7ecabdd92a2a4a8ca7e2a9fc0105fa30",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 3275,
@@ -1670,17 +2170,17 @@
 			"type": 3,
 			"fragmentId": 3277,
 			"memberOnly": true,
-			"mediaDuration": 3043
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1265305,
+		"readCount": 1486284,
 		"createTime": 1501331400000
 	}, {
 		"id": 383,
 		"title": "魏晋风华",
 		"summary": "以《世说新语》为线索的魏晋人物画卷，狂狷邪魅、天真烂漫，总有一款拿下你。",
 		"recommendation": "中国人骨子里的情怀",
-		"imageUrl": "https://file.dushu.io/file/4a2717037bed44e18521a930011bc120",
+		"imageUrl": "https://file.dushu.io/file/62c99387b59841a0838aa9fc010606f8",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 3246,
@@ -1695,17 +2195,17 @@
 			"type": 3,
 			"fragmentId": 3244,
 			"memberOnly": true,
-			"mediaDuration": 3972
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2171247,
+		"readCount": 2725101,
 		"createTime": 1500726600000
 	}, {
 		"id": 382,
 		"title": "关键期关键帮助",
 		"summary": "我们或许是第一次为人父母，但孩子只有一次成长的机会。如何把握孩子0-7岁的关键期？",
 		"recommendation": "为人父母者必修的一节课",
-		"imageUrl": "https://file.dushu.io/file/12dcbeec560e4cac8471a930011bb80b",
+		"imageUrl": "https://file.dushu.io/file/e102c097807c4052bee3a9fc0106157e",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 3217,
@@ -1720,17 +2220,17 @@
 			"type": 3,
 			"fragmentId": 3218,
 			"memberOnly": true,
-			"mediaDuration": 4225
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2559912,
+		"readCount": 3132161,
 		"createTime": 1500121800000
 	}, {
 		"id": 381,
 		"title": "当良知沉睡",
 		"summary": "哈佛医学院精神病专家帮你认出身边的恶魔。远离背叛与伤害，是爱自己的第一要义。",
 		"recommendation": "如何完美闪避“垃圾人”？",
-		"imageUrl": "https://file.dushu.io/file/ae055f134b194e3ebe0fa9310102553a",
+		"imageUrl": "https://file.dushu.io/file/44943e103f7c4398967ba9fc01062287",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 3188,
@@ -1745,17 +2245,17 @@
 			"type": 3,
 			"fragmentId": 3190,
 			"memberOnly": true,
-			"mediaDuration": 3178
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1579251,
+		"readCount": 2377032,
 		"createTime": 1499517000000
 	}, {
 		"id": 380,
 		"title": "为什么有的人特别招蚊子",
 		"summary": "一本书让你秒懂微生物对人体的巨大作用，原来微生物才是破坏健康和生活质量的最大杀手。",
 		"recommendation": "爸妈也能秒懂的微生物科普读物",
-		"imageUrl": "https://file.dushu.io/file/852462263e2e4b4ba68ea930011ba169",
+		"imageUrl": "https://file.dushu.io/file/898ada89d6ed4152a60aa9fc01062fad",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 3165,
@@ -1770,17 +2270,17 @@
 			"type": 3,
 			"fragmentId": 3167,
 			"memberOnly": true,
-			"mediaDuration": 1987
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1211386,
+		"readCount": 1741433,
 		"createTime": 1498912200000
 	}, {
 		"id": 379,
 		"title": "精益创业",
 		"summary": "风靡全球的创业思潮，李开复作序推荐",
 		"recommendation": "不仅是创业者，每个人都该读一读",
-		"imageUrl": "https://file.dushu.io/file/a578110fa1c849f7aa21a930011b9beb",
+		"imageUrl": "https://file.dushu.io/file/e98f6463e57e43c79e79a9fc01069722",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 3136,
@@ -1795,17 +2295,17 @@
 			"type": 3,
 			"fragmentId": 3138,
 			"memberOnly": true,
-			"mediaDuration": 3448
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1640545,
+		"readCount": 2339837,
 		"createTime": 1498307400000
 	}, {
 		"id": 378,
 		"title": "爸爸军团",
 		"summary": "如果有一天，你不得不面对死亡。那么，你能对那些放不下的人，还能做些什么呢？",
 		"recommendation": "浓情父爱帮你解开养儿育女的困惑",
-		"imageUrl": "https://file.dushu.io/file/b8ff6393833f4cbc9ccca930011b1628",
+		"imageUrl": "https://file.dushu.io/file/18e9704b6da54cf1a72fa9fc0106a545",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 3095,
@@ -1820,17 +2320,17 @@
 			"type": 3,
 			"fragmentId": 3097,
 			"memberOnly": true,
-			"mediaDuration": 3207
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1437480,
+		"readCount": 2115604,
 		"createTime": 1497702600000
 	}, {
 		"id": 377,
 		"title": "裂变式创业",
 		"summary": "帮助传统企业找到通往财富之路",
 		"recommendation": "宗毅教你如何成为颠覆世界的英雄",
-		"imageUrl": "https://file.dushu.io/file/ff5e7c2a49ee4c358436a930011b2080",
+		"imageUrl": "https://file.dushu.io/file/076b594f8f14486995aaa9fc0106b3a0",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 3057,
@@ -1845,17 +2345,17 @@
 			"type": 3,
 			"fragmentId": 3059,
 			"memberOnly": true,
-			"mediaDuration": 2762
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1340096,
+		"readCount": 1604120,
 		"createTime": 1497097800000
 	}, {
 		"id": 376,
 		"title": "中国哲学简史（下）",
 		"summary": "读懂儒释道思想精髓与变迁",
 		"recommendation": "读哲学，做一个有灵魂的人",
-		"imageUrl": "https://file.dushu.io/file/94349cd76bac42b6bc59a930011b8acc",
+		"imageUrl": "https://file.dushu.io/file/b71f302eb5dd42498f2fa9fc0106ce36",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 3015,
@@ -1870,17 +2370,17 @@
 			"type": 3,
 			"fragmentId": 3017,
 			"memberOnly": true,
-			"mediaDuration": 3136
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1134615,
+		"readCount": 1563565,
 		"createTime": 1496493000000
 	}, {
 		"id": 375,
 		"title": "中国哲学简史（上）",
 		"summary": "畅销全球半世纪的中国哲学入门书",
 		"recommendation": "如何轻松弄懂诸子百家",
-		"imageUrl": "https://file.dushu.io/file/e0685c21dcf04079a0caa930011b85c3",
+		"imageUrl": "https://file.dushu.io/file/a57f635f915f4b0cadc8a9fc0106db5c",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2981,
@@ -1895,47 +2395,47 @@
 			"type": 3,
 			"fragmentId": 2983,
 			"memberOnly": true,
-			"mediaDuration": 3455
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2020924,
+		"readCount": 2735479,
 		"createTime": 1495888200000
 	}, {
 		"id": 374,
 		"title": "自卑与超越",
 		"summary": "自卑有什么可怕的？阿德勒大师代表作，道破幽深人性的秘密，无数人因为它找到了更强大的自我。",
 		"recommendation": "适合所有人阅读学习",
-		"imageUrl": "https://file.dushu.io/file/ec787d49bc564cdba8b5a930011ad1a3",
+		"imageUrl": "https://file.dushu.io/file/3053dff40020493bb924a9fc0106e954",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2944,
-			"memberOnly": true,
+			"memberOnly": false,
 			"mediaDuration": 0
 		}, {
 			"type": 2,
 			"fragmentId": 2945,
-			"memberOnly": true,
+			"memberOnly": false,
 			"mediaDuration": 3484
 		}, {
 			"type": 3,
 			"fragmentId": 2943,
-			"memberOnly": true,
-			"mediaDuration": 3549
+			"memberOnly": false,
+			"mediaDuration": 0
 		}],
 		"memberOnly": false,
-		"readCount": 4496062,
+		"readCount": 10043262,
 		"createTime": 1495283400000
 	}, {
 		"id": 373,
 		"title": "让大象飞",
 		"summary": "激进创新，让你一飞冲天的创业术。",
 		"recommendation": "适合想创业或者正在创业的你阅读",
-		"imageUrl": "https://file.dushu.io/file/29e4cd4d2542411ba378a930011acb27",
+		"imageUrl": "https://file.dushu.io/file/e41e8f3f7c6549ae9f5ea9fc0106f7fa",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2902,
 			"memberOnly": true,
-			"mediaDuration": 1342
+			"mediaDuration": 0
 		}, {
 			"type": 2,
 			"fragmentId": 2903,
@@ -1945,22 +2445,22 @@
 			"type": 3,
 			"fragmentId": 2904,
 			"memberOnly": true,
-			"mediaDuration": 3258
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2252316,
+		"readCount": 3275977,
 		"createTime": 1494678600000
 	}, {
 		"id": 372,
 		"title": "心理医生为什么没有告诉我",
 		"summary": "中国有57%的人处于焦虑状态，你不是一个人在焦虑。但如何走出这57%，你得看看这本书。",
 		"recommendation": "适合对自己的焦虑手足无措者收看",
-		"imageUrl": "https://file.dushu.io/file/94443f11ecac49b5813ea930011ac30f",
+		"imageUrl": "https://file.dushu.io/file/0a60d10c66c9459ba613a9fc01070606",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2864,
 			"memberOnly": true,
-			"mediaDuration": 1342
+			"mediaDuration": 0
 		}, {
 			"type": 2,
 			"fragmentId": 2866,
@@ -1970,22 +2470,22 @@
 			"type": 3,
 			"fragmentId": 2865,
 			"memberOnly": true,
-			"mediaDuration": 2810
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2317478,
+		"readCount": 3472942,
 		"createTime": 1494073800000
 	}, {
 		"id": 371,
 		"title": "关键冲突",
 		"summary": "让他人践行承诺，在冲突爆发前，将其化解为无形，这本书将让你在社会交往中无往不利！",
 		"recommendation": "如何化人际关系危机为合作共赢",
-		"imageUrl": "https://file.dushu.io/file/efb6b61c830640a5ac27a930011a9ca9",
+		"imageUrl": "https://file.dushu.io/file/01863164b1864e10bacaa9fc010715b7",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2829,
 			"memberOnly": true,
-			"mediaDuration": 1342
+			"mediaDuration": 0
 		}, {
 			"type": 2,
 			"fragmentId": 2828,
@@ -1995,22 +2495,22 @@
 			"type": 3,
 			"fragmentId": 2827,
 			"memberOnly": true,
-			"mediaDuration": 2857
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2934135,
+		"readCount": 3681199,
 		"createTime": 1493469000000
 	}, {
 		"id": 370,
 		"title": "硅谷钢铁侠",
 		"summary": "埃隆·马斯克的冒险人生",
 		"recommendation": "适合满怀理想之人阅读",
-		"imageUrl": "https://file.dushu.io/file/6dc8f38220e94e299ed6a930011a97b3",
+		"imageUrl": "https://file.dushu.io/file/958d0dd56b3249bcaae1a9fc0107c904",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2781,
 			"memberOnly": true,
-			"mediaDuration": 1342
+			"mediaDuration": 0
 		}, {
 			"type": 2,
 			"fragmentId": 2779,
@@ -2020,92 +2520,92 @@
 			"type": 3,
 			"fragmentId": 2780,
 			"memberOnly": true,
-			"mediaDuration": 3249
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1636200,
+		"readCount": 2069632,
 		"createTime": 1492864200000
 	}, {
 		"id": 369,
 		"title": "流放的老国王",
 		"summary": "这本书写满了儿子对父亲的爱：父亲再也无法从桥那头走到我的世界来，因此我必须走到他那里去。",
 		"recommendation": "走进阿尔茨海默患者的孤独领域",
-		"imageUrl": "https://file.dushu.io/file/174f1218a9db42dfb300a930011a87e1",
+		"imageUrl": "https://file.dushu.io/file/6c3b89051343433c8f05a9fc0107d5da",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2741,
 			"memberOnly": true,
-			"mediaDuration": 1342
+			"mediaDuration": 0
 		}, {
 			"type": 2,
 			"fragmentId": 2737,
 			"memberOnly": true,
-			"mediaDuration": 2351
+			"mediaDuration": 2355
 		}, {
 			"type": 3,
 			"fragmentId": 2738,
 			"memberOnly": true,
-			"mediaDuration": 2368
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1563431,
+		"readCount": 2119290,
 		"createTime": 1492259400000
 	}, {
 		"id": 368,
 		"title": "亲密关系",
 		"summary": "让爱情回到最初的模样，无需心有灵犀，你一个人的单边改善也能做到，这正是亲密关系的秘密。",
 		"recommendation": "适合所有希望构建亲密关系的人",
-		"imageUrl": "https://file.dushu.io/file/a664649034df4b1da417a930011a80c6",
+		"imageUrl": "https://file.dushu.io/file/1f5e8dd2d05f48049829a9fc0107e3d3",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2704,
-			"memberOnly": true,
+			"memberOnly": false,
 			"mediaDuration": 0
 		}, {
 			"type": 2,
 			"fragmentId": 2706,
-			"memberOnly": true,
+			"memberOnly": false,
 			"mediaDuration": 3715
 		}, {
 			"type": 3,
 			"fragmentId": 2705,
-			"memberOnly": true,
-			"mediaDuration": 3724
+			"memberOnly": false,
+			"mediaDuration": 0
 		}],
 		"memberOnly": false,
-		"readCount": 10680087,
+		"readCount": 16773838,
 		"createTime": 1491654600000
 	}, {
 		"id": 367,
 		"title": "人工智能时代",
 		"summary": "人机共生下财富、工作与思维的大未来",
 		"recommendation": "适合对人机共生感兴趣者学习",
-		"imageUrl": "https://file.dushu.io/file/be8e313a7a6d465e9df7a930011a6460",
+		"imageUrl": "https://file.dushu.io/file/8be2c934ea2a43219ef3a9fc01080fe6",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2676,
-			"memberOnly": true,
-			"mediaDuration": 1342
+			"memberOnly": false,
+			"mediaDuration": 0
 		}, {
 			"type": 2,
 			"fragmentId": 2675,
-			"memberOnly": true,
+			"memberOnly": false,
 			"mediaDuration": 2977
 		}, {
 			"type": 3,
 			"fragmentId": 2677,
-			"memberOnly": true,
-			"mediaDuration": 2987
+			"memberOnly": false,
+			"mediaDuration": 0
 		}],
-		"memberOnly": true,
-		"readCount": 2040003,
+		"memberOnly": false,
+		"readCount": 2547404,
 		"createTime": 1491049800000
 	}, {
 		"id": 366,
-		"title": "国史讲话:春秋",
+		"title": "国史讲话：春秋",
 		"summary": "现代学术大师顾颉刚先生为我们潜心编撰的关于中华民族最早靠谱记忆的科普书。",
 		"recommendation": "喜欢历史和听故事的你不能错过哦",
-		"imageUrl": "https://file.dushu.io/file/0a21be9e9f8a475dbce0a930011a5ddb",
+		"imageUrl": "https://file.dushu.io/file/2aa86020ccdf42d5b1e5a9fc01081e8c",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2643,
@@ -2120,42 +2620,42 @@
 			"type": 3,
 			"fragmentId": 2645,
 			"memberOnly": true,
-			"mediaDuration": 2902
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3094949,
+		"readCount": 3919675,
 		"createTime": 1490445000000
 	}, {
 		"id": 365,
 		"title": "正面管教",
 		"summary": "家里自从有个孩子，教育就成了头等大事。怎么才能做到既不骄纵也不严厉，让孩子成为你的骄傲。",
 		"recommendation": "适合教养孩子的家长学习",
-		"imageUrl": "https://file.dushu.io/file/0c89d1c1e2c245119c7ea930011a4ed2",
+		"imageUrl": "https://file.dushu.io/file/fbdc543b5adf4eb594d5a9fc01082d1a",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2606,
-			"memberOnly": true,
+			"memberOnly": false,
 			"mediaDuration": 0
 		}, {
 			"type": 2,
 			"fragmentId": 2607,
-			"memberOnly": true,
+			"memberOnly": false,
 			"mediaDuration": 3484
 		}, {
 			"type": 3,
 			"fragmentId": 2609,
-			"memberOnly": true,
-			"mediaDuration": 3513
+			"memberOnly": false,
+			"mediaDuration": 0
 		}],
 		"memberOnly": false,
-		"readCount": 10041151,
+		"readCount": 17001783,
 		"createTime": 1489840200000
 	}, {
 		"id": 364,
 		"title": "中国八大诗人",
 		"summary": "民国著名学者胡怀琛笔下的屈原、陶渊明、李白、杜甫、白居易、苏东坡、陆游和王渔洋。",
 		"recommendation": "适合古诗词爱好者学习",
-		"imageUrl": "https://file.dushu.io/file/5fa3f7781f0948808a0ea930011a4803",
+		"imageUrl": "https://file.dushu.io/file/13a2e568545948e7a7e6a9fc01083a86",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2571,
@@ -2170,17 +2670,17 @@
 			"type": 3,
 			"fragmentId": 2573,
 			"memberOnly": true,
-			"mediaDuration": 3392
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2080995,
+		"readCount": 2687617,
 		"createTime": 1489235400000
 	}, {
 		"id": 363,
 		"title": "终极健康",
 		"summary": "《纽约时报》畅销书作家A.J.雅各布作品，讲述了一个40多岁的中年男人追求健康的历程。",
 		"recommendation": "一个人对完美身体的谦卑追求",
-		"imageUrl": "https://file.dushu.io/file/186432cf118247e6b814a930011a33e8",
+		"imageUrl": "https://file.dushu.io/file/2a8085509561455780eda9fc010849b9",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2540,
@@ -2195,17 +2695,17 @@
 			"type": 3,
 			"fragmentId": 2541,
 			"memberOnly": true,
-			"mediaDuration": 2822
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2281610,
+		"readCount": 3138611,
 		"createTime": 1488630600000
 	}, {
 		"id": 362,
 		"title": "指数型组织",
 		"summary": "打造独角兽公司的11个最强属性",
 		"recommendation": "适合希望掌控未来的企业家学习",
-		"imageUrl": "https://file.dushu.io/file/7700b010a5ee4a29a12ca930011a2554",
+		"imageUrl": "https://file.dushu.io/file/9ce0a4d9a10349e09643a9fc010859e9",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2505,
@@ -2220,17 +2720,17 @@
 			"type": 3,
 			"fragmentId": 2503,
 			"memberOnly": true,
-			"mediaDuration": 2861
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2192089,
+		"readCount": 2747474,
 		"createTime": 1488025800000
 	}, {
 		"id": 361,
 		"title": "丝绸之路",
 		"summary": "一部全新的世界史",
 		"recommendation": "适合对历史感兴趣的人",
-		"imageUrl": "https://file.dushu.io/file/410eaab110294ec98247a930011a18c9",
+		"imageUrl": "https://file.dushu.io/file/1f7264edc62541ddb7c5a9fc010871b7",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2466,
@@ -2245,17 +2745,17 @@
 			"type": 3,
 			"fragmentId": 2468,
 			"memberOnly": true,
-			"mediaDuration": 3433
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3333087,
+		"readCount": 5082186,
 		"createTime": 1487420880000
 	}, {
 		"id": 360,
 		"title": "危机领导力",
 		"summary": "掌握10大关键策略，让你的团队抗得过危机",
 		"recommendation": "适合团队领导者学习",
-		"imageUrl": "https://file.dushu.io/file/ccc9c77419244c5d9ceea75900ae7633",
+		"imageUrl": "https://file.dushu.io/file/5a345d694ad744ce869ea9fc01087f7c",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2436,
@@ -2270,17 +2770,17 @@
 			"type": 3,
 			"fragmentId": 2438,
 			"memberOnly": true,
-			"mediaDuration": 2406
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2866282,
+		"readCount": 3835913,
 		"createTime": 1486816200000
 	}, {
 		"id": 358,
 		"title": "未来简史",
 		"summary": "《人类简史》作者尤瓦尔·赫拉利的预测书，为我们揭开关于未来的一种可能。",
 		"recommendation": "适合对未来充满好奇者学习",
-		"imageUrl": "https://file.dushu.io/file/b3af7c6cf1274482b790a9300119fe75",
+		"imageUrl": "https://file.dushu.io/file/9754da7b83ae44b9aaf1a9fc010950e8",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2372,
@@ -2295,17 +2795,17 @@
 			"type": 3,
 			"fragmentId": 2376,
 			"memberOnly": true,
-			"mediaDuration": 3376
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3430035,
+		"readCount": 5435962,
 		"createTime": 1486211400000
 	}, {
 		"id": 357,
 		"title": "王阳明哲学",
 		"summary": "勾勒阳明思想历程，阐释心学义理",
 		"recommendation": "适合对阳明心学感兴趣者学习",
-		"imageUrl": "https://file.dushu.io/file/afb2329f10704fd78006a9300119f7a9",
+		"imageUrl": "https://file.dushu.io/file/6b414f48d59141499e5ca9fc01096210",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2351,
@@ -2320,17 +2820,17 @@
 			"type": 3,
 			"fragmentId": 2353,
 			"memberOnly": true,
-			"mediaDuration": 3079
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3727728,
+		"readCount": 5409227,
 		"createTime": 1485001800000
 	}, {
 		"id": 356,
 		"title": "权力:为什么只为某些人所拥有",
 		"summary": "权力是“争”来的，不是“等”来的",
 		"recommendation": "适合想获得权力和事业成功者学习",
-		"imageUrl": "https://file.dushu.io/file/767eeb4b3c5c4c6f965da9300119e576",
+		"imageUrl": "https://file.dushu.io/file/148455e947414466b541a9fc0109719c",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2329,
@@ -2345,17 +2845,17 @@
 			"type": 3,
 			"fragmentId": 2331,
 			"memberOnly": true,
-			"mediaDuration": 2417
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3319727,
+		"readCount": 4788228,
 		"createTime": 1484397000000
 	}, {
 		"id": 355,
 		"title": "如何让你爱的人爱上你",
 		"summary": "我们都不希望自己是那个唯一付出的人。但如果不靠套路不靠撩，如何让自己在乎的人也爱上你呢？",
 		"recommendation": "适合想收获理想爱情者学习",
-		"imageUrl": "https://file.dushu.io/file/4e99c9ac5ce24f5196e8a931010303cd",
+		"imageUrl": "https://file.dushu.io/file/b4c60048b09f4d568e32a9fc01098bd9",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2306,
@@ -2370,17 +2870,17 @@
 			"type": 3,
 			"fragmentId": 2305,
 			"memberOnly": true,
-			"mediaDuration": 2890
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 5425772,
+		"readCount": 9001758,
 		"createTime": 1483792200000
 	}, {
 		"id": 354,
 		"title": "认知盈余",
 		"summary": "自由时间的力量",
 		"recommendation": "适合想有效利用闲暇时间者学习",
-		"imageUrl": "https://file.dushu.io/file/2d88a9a9c6f44e7da8d0a93101039824",
+		"imageUrl": "https://file.dushu.io/file/3d2a2d5192584b5f936da9fc01099f7a",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2273,
@@ -2395,17 +2895,17 @@
 			"type": 3,
 			"fragmentId": 2275,
 			"memberOnly": true,
-			"mediaDuration": 2603
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2252557,
+		"readCount": 2647189,
 		"createTime": 1483187400000
 	}, {
 		"id": 348,
 		"title": "创始人",
 		"summary": "升职？跳槽？过好在新岗位的第一个90天，实现“过渡时期”的高能转变。",
 		"recommendation": "适合职场角色转变者学习",
-		"imageUrl": "https://file.dushu.io/file/dea3baaa1f8545378ec7a9310103ab9b",
+		"imageUrl": "https://file.dushu.io/file/8042b5d657c94715bdbda9fc01092a4e",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2248,
@@ -2420,17 +2920,17 @@
 			"type": 3,
 			"fragmentId": 2247,
 			"memberOnly": true,
-			"mediaDuration": 2300
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2147104,
+		"readCount": 2608397,
 		"createTime": 1482582600000
 	}, {
 		"id": 353,
 		"title": "和繁重的工作一起修行",
 		"summary": "如果你还在抱怨上班辛苦，那说明你还没意识到：工作，是一场“辛却不苦”的修行。",
 		"recommendation": "适合想活出生活品质的职场者学习",
-		"imageUrl": "https://file.dushu.io/file/5899dc8512ad4677a491a93100dc89e4",
+		"imageUrl": "https://file.dushu.io/file/206b2a2f18f14cff91ada9fc01091ea0",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2210,
@@ -2440,22 +2940,22 @@
 			"type": 2,
 			"fragmentId": 2211,
 			"memberOnly": true,
-			"mediaDuration": 2826
+			"mediaDuration": 2762
 		}, {
 			"type": 3,
 			"fragmentId": 2212,
 			"memberOnly": true,
-			"mediaDuration": 2831
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3081617,
+		"readCount": 4172472,
 		"createTime": 1481977800000
 	}, {
 		"id": 352,
 		"title": "不吼不叫",
 		"summary": "破解“父母吼”的「武林秘籍」，让孩子平静地与你合作，你的育儿方式是时候练功升级了！",
 		"recommendation": "适合容易暴躁的父母学习",
-		"imageUrl": "https://file.dushu.io/file/e8947efc2bcc4256829ba93001191cd4",
+		"imageUrl": "https://file.dushu.io/file/3306bc087e2b4776b6f7a9fc010915d1",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2176,
@@ -2470,17 +2970,17 @@
 			"type": 3,
 			"fragmentId": 2183,
 			"memberOnly": true,
-			"mediaDuration": 2912
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 5533252,
+		"readCount": 8303009,
 		"createTime": 1481373000000
 	}, {
 		"id": 351,
 		"title": "销售洗脑",
 		"summary": "这是一本教你洞察销售技巧，将逛街者变成购买者，让销售业绩如火箭般飞升的神奇之书。",
 		"recommendation": "把逛街者变成购买者的黄金法则",
-		"imageUrl": "https://file.dushu.io/file/6cae324799ed4084b23ba93001190db9",
+		"imageUrl": "https://file.dushu.io/file/e537245d37b343358de2a9fc01090b1f",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2149,
@@ -2495,17 +2995,17 @@
 			"type": 3,
 			"fragmentId": 2153,
 			"memberOnly": true,
-			"mediaDuration": 3138
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 4595037,
+		"readCount": 6499828,
 		"createTime": 1480768200000
 	}, {
 		"id": 350,
 		"title": "感官品牌",
 		"summary": "以“色”悦人、以“声”动人、以“味”诱人、以“情”感人，如何让顾客对品牌始终保持忠诚度。",
 		"recommendation": "二流企业造产品，一流企业创品牌",
-		"imageUrl": "https://file.dushu.io/file/3bedaf48a8d3477db40aa9300118f445",
+		"imageUrl": "https://file.dushu.io/file/bbdae70b0efa4a578267a9fc0108d6d4",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2122,
@@ -2520,42 +3020,42 @@
 			"type": 3,
 			"fragmentId": 2126,
 			"memberOnly": true,
-			"mediaDuration": 2631
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1446088,
+		"readCount": 2103668,
 		"createTime": 1480163400000
 	}, {
 		"id": 349,
 		"title": "刻意练习",
 		"summary": "挑战一万小时理论的朴实真理——看似天赋的技能，也可以通过正确的练习方式获得。",
 		"recommendation": "适合从“菜鸟”到“大神”的学习",
-		"imageUrl": "https://file.dushu.io/file/552dfa9bf13f4a27961aa9300118e0d3",
+		"imageUrl": "https://file.dushu.io/file/3cc2c532d0f24cad828ca9fc0108c581",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2097,
-			"memberOnly": true,
+			"memberOnly": false,
 			"mediaDuration": 0
 		}, {
 			"type": 2,
 			"fragmentId": 2093,
-			"memberOnly": true,
+			"memberOnly": false,
 			"mediaDuration": 3109
 		}, {
 			"type": 3,
 			"fragmentId": 2094,
-			"memberOnly": true,
-			"mediaDuration": 3118
+			"memberOnly": false,
+			"mediaDuration": 0
 		}],
 		"memberOnly": false,
-		"readCount": 7304555,
+		"readCount": 11884583,
 		"createTime": 1479558600000
 	}, {
 		"id": 347,
 		"title": "匠人精神",
 		"summary": "真正的匠人，先讲德行，后讲技能。己成，则物成。匠人一生，近乎天命。",
 		"recommendation": "适合想要成为一流人才者学习",
-		"imageUrl": "https://file.dushu.io/file/552c78f4dbc14196ac08a9300118c63c",
+		"imageUrl": "https://file.dushu.io/file/bda6f0fed9d349d78b10a9fc0108b9c0",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2070,
@@ -2570,17 +3070,17 @@
 			"type": 3,
 			"fragmentId": 2071,
 			"memberOnly": true,
-			"mediaDuration": 3458
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3446737,
+		"readCount": 4841027,
 		"createTime": 1478953800000
 	}, {
 		"id": 346,
 		"title": "医生的修炼",
 		"summary": "本书从不同侧面展现了医生所面对的不确定性，以及做抉择时需要考虑的复杂因素。",
 		"recommendation": "在不完美中探索行医的真相",
-		"imageUrl": "https://file.dushu.io/file/031084a0aaf34e069814a9300118b4ee",
+		"imageUrl": "https://file.dushu.io/file/7fda15db9b1a41bfb00da9fc0108b09d",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2043,
@@ -2595,17 +3095,17 @@
 			"type": 3,
 			"fragmentId": 2042,
 			"memberOnly": true,
-			"mediaDuration": 3212
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1079545,
+		"readCount": 1415535,
 		"createTime": 1478349000000
 	}, {
 		"id": 345,
 		"title": "童年的秘密",
 		"summary": "一个人的性格是在童年时期形成的，他们丰富的潜能需要你的悉心栽培，可你真的了解他们吗？",
 		"recommendation": "适合初为人父母者学习",
-		"imageUrl": "https://file.dushu.io/file/77a8be49aff5488a8edca93001189f82",
+		"imageUrl": "https://file.dushu.io/file/1b58d22dfd984c4eb008a9fc01089fa3",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2014,
@@ -2620,17 +3120,17 @@
 			"type": 3,
 			"fragmentId": 2016,
 			"memberOnly": true,
-			"mediaDuration": 2405
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2636293,
+		"readCount": 3941331,
 		"createTime": 1477744200000
 	}, {
 		"id": 344,
 		"title": "离经叛道",
 		"summary": "不按常理出牌的人如何改变世界",
 		"recommendation": "适合想要走出平庸泥潭者学习",
-		"imageUrl": "https://file.dushu.io/file/ac8ed011ca8b437e9ebaa93001188317",
+		"imageUrl": "https://file.dushu.io/file/00d742778b744a118e5ea9fc010896b8",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1984,
@@ -2645,17 +3145,17 @@
 			"type": 3,
 			"fragmentId": 1983,
 			"memberOnly": true,
-			"mediaDuration": 3259
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1634190,
+		"readCount": 1950338,
 		"createTime": 1477139457000
 	}, {
 		"id": 343,
 		"title": "销售就是要玩转情商",
 		"summary": "销售大师科林斯坦利备受千万人追捧的销售课，揭示99%的人都不知道的销售软技巧。",
 		"recommendation": "99%的人都不知道的销售软技巧",
-		"imageUrl": "https://file.dushu.io/file/2fe433c8d7a74e0eaed6a93001187552",
+		"imageUrl": "https://file.dushu.io/file/fc99266e0aa749808249a9fc01088a2d",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1957,
@@ -2670,17 +3170,17 @@
 			"type": 3,
 			"fragmentId": 1955,
 			"memberOnly": true,
-			"mediaDuration": 2703
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 4342941,
+		"readCount": 6284421,
 		"createTime": 1476534600000
 	}, {
 		"id": 342,
 		"title": "我想飞进天空",
 		"summary": "或许你听说过孤独症儿童，但并不了解他们眼中的世界。地球人，请了解下来自星星的孩子。",
 		"recommendation": "适合想了解自闭症儿童的人学习",
-		"imageUrl": "https://file.dushu.io/file/7f8383405de24052904aa9300118683a",
+		"imageUrl": "https://file.dushu.io/file/b87f5fde4cdd412eb2cea9fc01088184",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1935,
@@ -2695,17 +3195,17 @@
 			"type": 3,
 			"fragmentId": 1933,
 			"memberOnly": true,
-			"mediaDuration": 2754
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 927711,
+		"readCount": 1438839,
 		"createTime": 1475929800000
 	}, {
 		"id": 341,
 		"title": "放弃的艺术",
 		"summary": "明知不可企及，还依然坚持的人，不是准备做殉道者，就是喜欢当傻子。你准备做哪一种？",
 		"recommendation": "适合深陷一种人生无法自拔者学习",
-		"imageUrl": "https://file.dushu.io/file/afed41222d974201abcca930011859c7",
+		"imageUrl": "https://file.dushu.io/file/2983cad982ed496a89afa9fc01076173",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1909,
@@ -2720,17 +3220,17 @@
 			"type": 3,
 			"fragmentId": 1908,
 			"memberOnly": true,
-			"mediaDuration": 2910
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2102968,
+		"readCount": 2842693,
 		"createTime": 1475325000000
 	}, {
 		"id": 340,
 		"title": "翻转课堂的可汗学院",
 		"summary": "令人拍案叫绝的精熟教育法是如何诞生的？它的原理是什么？未来教育模式又将如何变革？",
 		"recommendation": "适合教育从业者和家长学习",
-		"imageUrl": "https://file.dushu.io/file/5d782f5d93f049619c12a93001183f31",
+		"imageUrl": "https://file.dushu.io/file/4d953213a6cb479f8083a9fc0107556b",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1887,
@@ -2745,17 +3245,17 @@
 			"type": 3,
 			"fragmentId": 1889,
 			"memberOnly": true,
-			"mediaDuration": 2690
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2163822,
+		"readCount": 2803442,
 		"createTime": 1474720200000
 	}, {
 		"id": 339,
 		"title": "宽恕",
 		"summary": "恨的结果唯有毁灭，爱中才有疗愈的力量。你可以不放过别人，但不要放弃自己的自由。",
 		"recommendation": "适合追求心灵幸福者学习",
-		"imageUrl": "https://file.dushu.io/file/3112e3d9d9d246d79e6da930011815cf",
+		"imageUrl": "https://file.dushu.io/file/79123359273e48408e7ea9fc01074b7a",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1848,
@@ -2770,17 +3270,17 @@
 			"type": 3,
 			"fragmentId": 1847,
 			"memberOnly": true,
-			"mediaDuration": 2453
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1479489,
+		"readCount": 2044025,
 		"createTime": 1474115400000
 	}, {
 		"id": 338,
 		"title": "你能写出好故事",
 		"summary": "以大量丰富的心理学原理与案例作为辅助的写作辅导书，教你写出令人欲罢不能的好故事。",
 		"recommendation": "适合对写作有兴趣者学习",
-		"imageUrl": "https://file.dushu.io/file/5f6634e23649497788bca93100de0aa9",
+		"imageUrl": "https://file.dushu.io/file/6378f8e92df04b3cb80ba9fc0106bfba",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1831,
@@ -2795,17 +3295,17 @@
 			"type": 3,
 			"fragmentId": 1830,
 			"memberOnly": true,
-			"mediaDuration": 2901
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1564587,
+		"readCount": 2092165,
 		"createTime": 1473510600000
 	}, {
 		"id": 337,
 		"title": "你的生存本能正在杀死你",
 		"summary": "亲爱的，现在不是原始时代，你不用总是焦虑、恐惧。让本能歇一歇，生活就能轻松一晌。",
 		"recommendation": "适合陷于恐惧、焦虑、失眠者学习",
-		"imageUrl": "https://file.dushu.io/file/3571cf9ec0244678a29ea930011ba71b",
+		"imageUrl": "https://file.dushu.io/file/49272836a1f5477cb9c4a9fc0106ac56",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1807,
@@ -2820,17 +3320,17 @@
 			"type": 3,
 			"fragmentId": 1809,
 			"memberOnly": true,
-			"mediaDuration": 2782
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2464637,
+		"readCount": 3191341,
 		"createTime": 1472905800000
 	}, {
 		"id": 335,
 		"title": "沃顿商学院最受欢迎的谈判课",
 		"summary": "有时候，与实现“双赢”相比，以今天的失利换取明天更大的利益要更加明智。",
 		"recommendation": "最高效的谈判秘籍",
-		"imageUrl": "https://file.dushu.io/file/278020d875244153976fa930011c0da5",
+		"imageUrl": "https://file.dushu.io/file/c7476e2ed9b74cec83f4a9fc0106a040",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1785,
@@ -2845,17 +3345,17 @@
 			"type": 3,
 			"fragmentId": 1787,
 			"memberOnly": true,
-			"mediaDuration": 2952
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2267366,
+		"readCount": 2728297,
 		"createTime": 1472301000000
 	}, {
 		"id": 334,
 		"title": "我战胜了抑郁症",
 		"summary": "抑郁症是怎样的一条黑狗？扛过一场抑郁症的人，比扛过一场战争的将军强大。",
 		"recommendation": "适合抑郁症患者及其亲友学习",
-		"imageUrl": "https://file.dushu.io/file/985f625f8acc48848783a930011c25a7",
+		"imageUrl": "https://file.dushu.io/file/89ddfbf53f8d460f940ba9fc01069739",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1756,
@@ -2870,17 +3370,17 @@
 			"type": 3,
 			"fragmentId": 1758,
 			"memberOnly": true,
-			"mediaDuration": 2950
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1542799,
+		"readCount": 2282984,
 		"createTime": 1471696200000
 	}, {
 		"id": 333,
 		"title": "跑步圣经",
 		"summary": "德国运动类图书畅销榜第1名，冠军教练无保留经验分享，这是伴你奔跑一生的金牌教程。",
 		"recommendation": "人天生就是跑者，让本书伴你奔跑",
-		"imageUrl": "https://file.dushu.io/file/d0c366a4677145118292a930011c3a20",
+		"imageUrl": "https://file.dushu.io/file/7ed5540d6d8a4f0bbd5ba9fc01068d51",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1733,
@@ -2895,17 +3395,17 @@
 			"type": 3,
 			"fragmentId": 1735,
 			"memberOnly": true,
-			"mediaDuration": 2143
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2054195,
+		"readCount": 2972905,
 		"createTime": 1471091400000
 	}, {
 		"id": 332,
 		"title": "人类简史",
 		"summary": "作者以超宏观的视角，逻辑清晰的脑洞描绘了人类从动物到上帝的进化历程。",
 		"recommendation": "适合对人类发展史有兴趣者学习",
-		"imageUrl": "https://file.dushu.io/file/4880c9688d9043b68af0a930011c626d",
+		"imageUrl": "https://file.dushu.io/file/93c26ceb39de4e17b8b1a9fc0106817d",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1706,
@@ -2920,42 +3420,42 @@
 			"type": 3,
 			"fragmentId": 1705,
 			"memberOnly": true,
-			"mediaDuration": 4180
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3138067,
+		"readCount": 4220054,
 		"createTime": 1470486600000
 	}, {
 		"id": 331,
 		"title": "非暴力沟通",
 		"summary": "马歇尔·卢森堡博士发现，依照非暴力沟通的方法谈话和聆听，能使人们情意相通，和谐相处。",
 		"recommendation": "打开爱和理解的密码",
-		"imageUrl": "https://file.dushu.io/file/7413b82ef5f74c3e9fb0a9130114d31a",
+		"imageUrl": "https://file.dushu.io/file/7b667ee2b54e41969eeaa9fc01072898",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1684,
-			"memberOnly": true,
+			"memberOnly": false,
 			"mediaDuration": 0
 		}, {
 			"type": 2,
 			"fragmentId": 1686,
-			"memberOnly": true,
+			"memberOnly": false,
 			"mediaDuration": 2984
 		}, {
 			"type": 3,
 			"fragmentId": 1685,
-			"memberOnly": true,
-			"mediaDuration": 3259
+			"memberOnly": false,
+			"mediaDuration": 0
 		}],
 		"memberOnly": false,
-		"readCount": 5839814,
+		"readCount": 9758310,
 		"createTime": 1469881800000
 	}, {
 		"id": 330,
 		"title": "演讲的力量",
 		"summary": "TED掌门人克里斯·安德森，15年来参与并指导了上千场TED演讲，如今亲自传授公开演讲的秘诀！",
 		"recommendation": "如何让公众表达变成影响力",
-		"imageUrl": "https://file.dushu.io/file/6ef69de14f764a8d9951a930011cacad",
+		"imageUrl": "https://file.dushu.io/file/abda45b157e64babbbd2a9fc01071d0f",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1654,
@@ -2970,17 +3470,17 @@
 			"type": 3,
 			"fragmentId": 1656,
 			"memberOnly": true,
-			"mediaDuration": 3922
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2360652,
+		"readCount": 2861964,
 		"createTime": 1469277000000
 	}, {
 		"id": 156,
 		"title": "如何说孩子才会听，怎么听孩子才肯说",
 		"summary": "把和孩子的矛盾化解于无形之中，让忙碌的父母在最短的时间里学会与孩子亲密沟通。",
 		"recommendation": "适合不知道怎么跟孩子沟通者学习",
-		"imageUrl": "https://file.dushu.io/file/33dc11092ab14f2591e7a930011d0138",
+		"imageUrl": "https://file.dushu.io/file/ccf3fb154cef41239db8a9fc0107138e",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 77,
@@ -2995,17 +3495,17 @@
 			"type": 3,
 			"fragmentId": 1626,
 			"memberOnly": true,
-			"mediaDuration": 2892
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3826967,
+		"readCount": 5746170,
 		"createTime": 1468672200000
 	}, {
 		"id": 328,
 		"title": "梁漱溟先生讲孔孟（下）",
 		"summary": "有“中国最后一位大儒”之称的梁漱溟先生用十三个词带我们探索《论语》的精彩世界。",
 		"recommendation": "适合对孔孟儒学有兴趣者学习",
-		"imageUrl": "https://file.dushu.io/file/859417e25edd4075a750a93100ed1224",
+		"imageUrl": "https://file.dushu.io/file/c1e0fcf40e1f4e1792f7a9fc0106f1d3",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1589,
@@ -3020,17 +3520,17 @@
 			"type": 3,
 			"fragmentId": 1591,
 			"memberOnly": true,
-			"mediaDuration": 3516
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 916980,
+		"readCount": 1182958,
 		"createTime": 1468067100000
 	}, {
 		"id": 327,
 		"title": "梁漱溟先生讲孔孟（上）",
 		"summary": "有“中国最后一位大儒”之称的梁漱溟先生用十三个词带我们探索《论语》的精彩世界。",
 		"recommendation": "适合对孔孟儒学有兴趣者学习",
-		"imageUrl": "https://file.dushu.io/file/ba59f8afff504c09852ea93100ecfcbd",
+		"imageUrl": "https://file.dushu.io/file/659f9a8b3c5f454bb1b8a9fc01070647",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1569,
@@ -3045,17 +3545,17 @@
 			"type": 3,
 			"fragmentId": 1572,
 			"memberOnly": true,
-			"mediaDuration": 3330
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1479637,
+		"readCount": 1990027,
 		"createTime": 1467462600000
 	}, {
 		"id": 325,
 		"title": "你要如何衡量你的人生",
 		"summary": "不喂鸡汤，哈佛教授带你理性看待人生问题。有时，如何思考远比知道答案重要。",
 		"recommendation": "适合资源配置不合理者学习",
-		"imageUrl": "https://file.dushu.io/file/3c11bd18e6604512939ea98401245c4a",
+		"imageUrl": "https://file.dushu.io/file/7cacda36b62e4544b137a9fc0106d6f7",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1523,
@@ -3070,17 +3570,17 @@
 			"type": 3,
 			"fragmentId": 1524,
 			"memberOnly": true,
-			"mediaDuration": 2770
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 3020973,
+		"readCount": 4022212,
 		"createTime": 1466857800000
 	}, {
 		"id": 67,
 		"title": "爆款",
 		"summary": "在数字科技的引领下，世上所有产业皆为娱乐业，学习爆款策略才能在激烈竞争中脱颖而出。",
 		"recommendation": "适合想打造网红产品的卖家学习",
-		"imageUrl": "https://file.dushu.io/file/074a2be8d491407eb5caa930011b36f3",
+		"imageUrl": "https://file.dushu.io/file/2c6e53ec38b64d069272a9fc0106cf12",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1488,
@@ -3095,17 +3595,17 @@
 			"type": 3,
 			"fragmentId": 1490,
 			"memberOnly": true,
-			"mediaDuration": 2909
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 951750,
+		"readCount": 1249517,
 		"createTime": 1466253000000
 	}, {
 		"id": 141,
 		"title": "翻转式学习",
 		"summary": "梳理传统教育的弊病，致力于为孩子们找回学习的激情，这是真正的教育该做到的事。",
 		"recommendation": "适合老师和家长学习",
-		"imageUrl": "https://file.dushu.io/file/5e1d5e4b2daa46af8e2da930011b23d5",
+		"imageUrl": "https://file.dushu.io/file/622de470915d46e49abaa9fc01067220",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1452,
@@ -3120,17 +3620,17 @@
 			"type": 3,
 			"fragmentId": 1454,
 			"memberOnly": true,
-			"mediaDuration": 2841
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1669882,
+		"readCount": 2497313,
 		"createTime": 1465549200000
 	}, {
 		"id": 146,
 		"title": "浪潮式发售",
 		"summary": "亚马逊创始人贝佐斯的创业教练教你用10天时间，4种发售路径，让产品一上架就被秒杀。",
 		"recommendation": "适合发售产品的营销者学习",
-		"imageUrl": "https://file.dushu.io/file/5ec7f7335a2346179ec3a930011b1173",
+		"imageUrl": "https://file.dushu.io/file/fd638435731c4a118faea9fc0105eed1",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1413,
@@ -3145,17 +3645,17 @@
 			"type": 3,
 			"fragmentId": 1415,
 			"memberOnly": true,
-			"mediaDuration": 2337
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 619921,
+		"readCount": 814321,
 		"createTime": 1465043100000
 	}, {
 		"id": 135,
 		"title": "这书能让你戒烟",
 		"summary": "一个有着33年烟龄、一天100支烟的家伙，这么一位顽固的老烟枪发现了轻松戒烟的秘密！",
 		"recommendation": "掀起全球旋风的戒烟奇迹",
-		"imageUrl": "https://file.dushu.io/file/cb86963ece1e4b3aa49ca930011ae4d3",
+		"imageUrl": "https://file.dushu.io/file/692f970fd03a4c93a43aa9fc0105e5bc",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1388,
@@ -3170,17 +3670,17 @@
 			"type": 3,
 			"fragmentId": 1387,
 			"memberOnly": true,
-			"mediaDuration": 2866
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1356678,
+		"readCount": 2103087,
 		"createTime": 1464310800000
 	}, {
 		"id": 321,
 		"title": "商业的本质",
 		"summary": "致敬工业时代，回归商业本质",
 		"recommendation": "适合想实现企业快速增长者学习",
-		"imageUrl": "https://file.dushu.io/file/58b89a64032f48e9b197a930011a1cf1",
+		"imageUrl": "https://file.dushu.io/file/36dc2ef4fc6446acb6bfa9fc0105dbc6",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1358,
@@ -3195,17 +3695,17 @@
 			"type": 3,
 			"fragmentId": 1360,
 			"memberOnly": true,
-			"mediaDuration": 2386
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1247459,
+		"readCount": 1853838,
 		"createTime": 1463833800000
 	}, {
 		"id": 108,
 		"title": "正见：佛陀的证悟",
 		"summary": "佛说：世事无常，这是件好事。一本佛教入门书，让你更懂佛教徒。",
 		"recommendation": "适合尚未掌握自己喜怒哀乐者学习",
-		"imageUrl": "https://file.dushu.io/file/c8d6b6bd9a0940bbb770a9300119e014",
+		"imageUrl": "https://file.dushu.io/file/4ceb70a405d646e18d44a9fc01046b2d",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 42,
@@ -3220,17 +3720,17 @@
 			"type": 3,
 			"fragmentId": 1311,
 			"memberOnly": true,
-			"mediaDuration": 2539
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1685051,
+		"readCount": 2701334,
 		"createTime": 1463229039000
 	}, {
 		"id": 320,
 		"title": "养育女孩",
 		"summary": "头发顺长，肉薄心窄……女孩到底怎么养呢？穷养or富养？或者在这之前，看一看这本书？",
 		"recommendation": "适合教养女孩的家长学习",
-		"imageUrl": "https://file.dushu.io/file/5f088860d5334ecb9ef2a93001197d8c",
+		"imageUrl": "https://file.dushu.io/file/fa6532df5c3145fa93bba9fc0104541f",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1283,
@@ -3245,17 +3745,17 @@
 			"type": 3,
 			"fragmentId": 1284,
 			"memberOnly": true,
-			"mediaDuration": 3305
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2738076,
+		"readCount": 4151143,
 		"createTime": 1462464000000
 	}, {
 		"id": 319,
 		"title": "少即是多",
 		"summary": "来自北欧的自由生活意见，真正幸福的人都会做减法。什么都不缺，不幸起来才悲哀。",
 		"recommendation": "适合沉溺于物质欲望者学习",
-		"imageUrl": "https://file.dushu.io/file/b603efbef72542c7842ca93001193a2e",
+		"imageUrl": "https://file.dushu.io/file/fce6f3eb2cd84450ac2aa9fc010445e5",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1254,
@@ -3270,17 +3770,17 @@
 			"type": 3,
 			"fragmentId": 1256,
 			"memberOnly": true,
-			"mediaDuration": 2758
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1649314,
+		"readCount": 2278848,
 		"createTime": 1462019700000
 	}, {
 		"id": 317,
 		"title": "谷物大脑",
 		"summary": "阿尔茨海默症、慢性头痛等脑部问题和疾病的罪魁祸首，不是别的，正是你吃下的食物！",
 		"recommendation": "我们吃的谷物有可能损害大脑?",
-		"imageUrl": "https://file.dushu.io/file/f6bdfd30cc2e44249924a9300119130d",
+		"imageUrl": "https://file.dushu.io/file/1690c12c4b35441e81d1a9fc01043bc0",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1222,
@@ -3295,17 +3795,17 @@
 			"type": 3,
 			"fragmentId": 1225,
 			"memberOnly": true,
-			"mediaDuration": 2527
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2034743,
+		"readCount": 3124605,
 		"createTime": 1461340800000
 	}, {
 		"id": 316,
 		"title": "人性中的善良天使（全二册）",
 		"summary": "这本书讲述了人类的暴力史，暴力为什么会日渐减少呢？你要不要猜一猜？",
 		"recommendation": "适合对人性悲观者学习",
-		"imageUrl": "https://file.dushu.io/file/2cc8e3d8e7564c9c9314a9300118a9ed",
+		"imageUrl": "https://file.dushu.io/file/cc73cacc2cd348f7bf41a9fc01045bb9",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1184,
@@ -3320,17 +3820,17 @@
 			"type": 3,
 			"fragmentId": 1190,
 			"memberOnly": true,
-			"mediaDuration": 2908
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1792543,
+		"readCount": 2138623,
 		"createTime": 1460700000000
 	}, {
 		"id": 315,
 		"title": "忙碌爸爸也能做好爸爸",
 		"summary": "“好爸爸养成计划”——再忙也能做好爸爸",
 		"recommendation": "适合忙于事业的爸爸学习",
-		"imageUrl": "https://file.dushu.io/file/3a03b46b26cc4178bc1fa9300118fe94",
+		"imageUrl": "https://file.dushu.io/file/68a0a6b4d7e34a139e7da9fc0104764f",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1164,
@@ -3345,17 +3845,17 @@
 			"type": 3,
 			"fragmentId": 1166,
 			"memberOnly": true,
-			"mediaDuration": 2604
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1004066,
+		"readCount": 1418182,
 		"createTime": 1460205000000
 	}, {
 		"id": 314,
 		"title": "轻疗愈",
 		"summary": "@压力值爆棚的你，你有一份“1分钟身心疗愈法”，请注意查收。",
 		"recommendation": "适合亚健康者学习",
-		"imageUrl": "https://file.dushu.io/file/2374a7f86e314952a2c6a930011841eb",
+		"imageUrl": "https://file.dushu.io/file/7709c044e2cf47ed824ea9fc01047f98",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1140,
@@ -3370,17 +3870,17 @@
 			"type": 3,
 			"fragmentId": 1142,
 			"memberOnly": true,
-			"mediaDuration": 2828
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1886508,
+		"readCount": 3124236,
 		"createTime": 1459497600000
 	}, {
 		"id": 63,
 		"title": "干法",
 		"summary": "人人都想活得更好，怎么才能好好活？答案：先得学会好好干。",
 		"recommendation": "适合所有身在职场的工作者学习",
-		"imageUrl": "https://file.dushu.io/file/8136ac2709fd49c399fca9300118223e",
+		"imageUrl": "https://file.dushu.io/file/bb2aa51a39984ce49a42a9fc0104876e",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1125,
@@ -3395,17 +3895,17 @@
 			"type": 3,
 			"fragmentId": 1123,
 			"memberOnly": true,
-			"mediaDuration": 2975
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2770655,
+		"readCount": 3789132,
 		"createTime": 1458993600000
 	}, {
 		"id": 312,
 		"title": "共享经济",
 		"summary": "重构未来商业新模式",
 		"recommendation": "适合对当下和未来经济迷惑者学习",
-		"imageUrl": "https://file.dushu.io/file/0fd76b70ef6c4aa994cea9300118144f",
+		"imageUrl": "https://file.dushu.io/file/efd9da5b131541d4a730a9fc0105d173",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1075,
@@ -3420,17 +3920,17 @@
 			"type": 3,
 			"fragmentId": 1077,
 			"memberOnly": true,
-			"mediaDuration": 2786
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 983927,
+		"readCount": 1502177,
 		"createTime": 1458280800000
 	}, {
 		"id": 311,
 		"title": "爱有8种习惯",
 		"summary": "8种爱的习惯破解人生重重谜题，帮你重操生活掌控权。消除不安全感，心灵便归于自由安宁。",
 		"recommendation": "适合缺乏安全感者学习",
-		"imageUrl": "https://file.dushu.io/file/d49e33b85e9b458ab711a9300117eb91",
+		"imageUrl": "https://file.dushu.io/file/72f710bbeb2e42dfa6eaa9fc0105c964",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1059,
@@ -3445,17 +3945,17 @@
 			"type": 3,
 			"fragmentId": 1061,
 			"memberOnly": true,
-			"mediaDuration": 3127
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2140106,
+		"readCount": 3344040,
 		"createTime": 1457786100000
 	}, {
 		"id": 310,
 		"title": "颠覆性医疗革命",
 		"summary": "曾经只在科幻小说、影片中看到的场景，将被科技一步步带入现实。科技下的医疗改革不再是梦！",
 		"recommendation": "一个颠覆性的医疗时代来临",
-		"imageUrl": "https://file.dushu.io/file/39a4844001be49798f8fa9300119c26f",
+		"imageUrl": "https://file.dushu.io/file/5e6bf1e256bc43f79a84a9fc0105b451",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 1030,
@@ -3470,17 +3970,17 @@
 			"type": 3,
 			"fragmentId": 1032,
 			"memberOnly": true,
-			"mediaDuration": 2630
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 640983,
+		"readCount": 921279,
 		"createTime": 1457107200000
 	}, {
 		"id": 100,
 		"title": "高绩效教练",
 		"summary": "优秀的领导者都有“教练”特质，懂得重点培养他人的觉察力、责任感和自信心，最终产出高绩效。",
 		"recommendation": "教练与领导领域首屈一指的畅销书",
-		"imageUrl": "https://file.dushu.io/file/8debfe1c61894444986ea93001176635",
+		"imageUrl": "https://file.dushu.io/file/32c4e3083b144db4a6b0a9fc0105a57c",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 39,
@@ -3495,17 +3995,17 @@
 			"type": 3,
 			"fragmentId": 1014,
 			"memberOnly": true,
-			"mediaDuration": 2613
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2671530,
+		"readCount": 3633985,
 		"createTime": 1456576500000
 	}, {
 		"id": 309,
 		"title": "母爱的羁绊",
 		"summary": "爱来自父母，令人悲哀的是，伤害也往往来自父母。别再让自恋型母爱脱毁了你的孩子。",
 		"recommendation": "适合希望与母亲和解的女儿学习",
-		"imageUrl": "https://file.dushu.io/file/feef202a35a244728616a9300117569b",
+		"imageUrl": "https://file.dushu.io/file/e63ba23f6e7b4b149410a9fc01052516",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 990,
@@ -3520,17 +4020,17 @@
 			"type": 3,
 			"fragmentId": 988,
 			"memberOnly": true,
-			"mediaDuration": 2150
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1482407,
+		"readCount": 2195813,
 		"createTime": 1455897600000
 	}, {
 		"id": 307,
 		"title": "我的情绪为何总被他人左右",
 		"summary": "不再患得患失，不再左右彷徨。现在，是时候拿回你的“情绪掌控权”了！",
 		"recommendation": "适合无法控制情绪者学习",
-		"imageUrl": "https://file.dushu.io/file/9ef1e2ba2167450f9d67a93001174285",
+		"imageUrl": "https://file.dushu.io/file/963d0a66f6364c4bae87a9fc0104f7ad",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 951,
@@ -3545,17 +4045,17 @@
 			"type": 3,
 			"fragmentId": 953,
 			"memberOnly": true,
-			"mediaDuration": 2504
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2735216,
+		"readCount": 3878355,
 		"createTime": 1454515200000
 	}, {
 		"id": 305,
 		"title": "王阳明大传（全三册）",
 		"summary": "人人都爱王阳明，作为立德立言立功三不朽的圣人，他亦有趣致传奇的一生等你来发现。",
 		"recommendation": "适合对王阳明感兴趣者学习",
-		"imageUrl": "https://file.dushu.io/file/9bd8fe9d43fe4216b365a93001172ed1",
+		"imageUrl": "https://file.dushu.io/file/fce5050a61a84f229f59a9fc0104e368",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 941,
@@ -3570,17 +4070,17 @@
 			"type": 3,
 			"fragmentId": 943,
 			"memberOnly": true,
-			"mediaDuration": 3579
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1973463,
+		"readCount": 2917485,
 		"createTime": 1454083200000
 	}, {
 		"id": 173,
 		"title": "谁说商业直觉是天生的",
 		"summary": "直觉是解决问题的最快方法",
 		"recommendation": "给每个为商业直觉而焦灼的人",
-		"imageUrl": "https://file.dushu.io/file/2eed2a0d237348d4b970a9300117140b",
+		"imageUrl": "https://file.dushu.io/file/3dbfd662f96a40a39c33a9fc010b9c81",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 232,
@@ -3595,17 +4095,17 @@
 			"type": 3,
 			"fragmentId": 902,
 			"memberOnly": true,
-			"mediaDuration": 2752
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 840631,
+		"readCount": 1221413,
 		"createTime": 1453552200000
 	}, {
 		"id": 128,
 		"title": "视觉锤",
 		"summary": "视觉形象和语言信息的关系好比锤子与钉子：要用视觉形象，把你的语言钉子植入消费者的心智中。",
 		"recommendation": "视觉时代的定位之道",
-		"imageUrl": "https://file.dushu.io/file/60b6e700730e4e5b841ba9300116ff97",
+		"imageUrl": "https://file.dushu.io/file/46c990c39f6f4d57a1d3a9fc0104cc68",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 50,
@@ -3620,17 +4120,17 @@
 			"type": 3,
 			"fragmentId": 882,
 			"memberOnly": true,
-			"mediaDuration": 2342
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 646789,
+		"readCount": 864757,
 		"createTime": 1452830400000
 	}, {
 		"id": 21,
 		"title": "哈佛商学院最受欢迎的领导课",
 		"summary": "宏观层面的领导力",
 		"recommendation": "适合各行业的管理者学习",
-		"imageUrl": "https://file.dushu.io/file/269b878df8ea4dc5bba1a9300116ed93",
+		"imageUrl": "https://file.dushu.io/file/9db48c513de141c984f0a9fc0104c374",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 11,
@@ -3645,17 +4145,17 @@
 			"type": 3,
 			"fragmentId": 849,
 			"memberOnly": true,
-			"mediaDuration": 1985
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1412530,
+		"readCount": 2252111,
 		"createTime": 1452342649000
 	}, {
 		"id": 103,
 		"title": "如何培养孩子的社会能力",
 		"summary": "社会能力是孩子人生幸福的基础。教会孩子怎么做，而不是替他做！",
 		"recommendation": "适合担忧孩子交际的家长学习",
-		"imageUrl": "https://file.dushu.io/file/5a64b64ac83e420fb28fa9300116d8ca",
+		"imageUrl": "https://file.dushu.io/file/7312fa24e0e745c88d21a9fc0104bbf7",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 41,
@@ -3670,17 +4170,17 @@
 			"type": 3,
 			"fragmentId": 820,
 			"memberOnly": true,
-			"mediaDuration": 2062
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 5842704,
+		"readCount": 9090071,
 		"createTime": 1451631600000
 	}, {
 		"id": 302,
 		"title": "情绪急救",
 		"summary": "主治：孤独、自卑、沮丧与各类精神创伤\r\n用法：随时随地，拿出来看看",
 		"recommendation": "适合容易情绪受伤者学习",
-		"imageUrl": "https://file.dushu.io/file/0693bcba74b64d52a9a9a93001168481",
+		"imageUrl": "https://file.dushu.io/file/0d614e76a6c2414197d8a9fc0104b2e6",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 785,
@@ -3695,17 +4195,17 @@
 			"type": 3,
 			"fragmentId": 790,
 			"memberOnly": true,
-			"mediaDuration": 3486
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1749394,
+		"readCount": 2528465,
 		"createTime": 1451132880000
 	}, {
 		"id": 116,
 		"title": "让顾客自己来定价",
 		"summary": "沃顿商学院营销学教授深度剖析创新定价策略，传授世界最盈利公司的致富真经。",
 		"recommendation": "世界最盈利公司的创新定价策略",
-		"imageUrl": "https://file.dushu.io/file/c6ccea428f534251afe8a93001164e86",
+		"imageUrl": "https://file.dushu.io/file/00f3dc5ef5f74b9695cea9fc0104980a",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 45,
@@ -3720,17 +4220,17 @@
 			"type": 3,
 			"fragmentId": 774,
 			"memberOnly": true,
-			"mediaDuration": 2252
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 842698,
+		"readCount": 1260162,
 		"createTime": 1450368000000
 	}, {
 		"id": 152,
 		"title": "瞬变",
 		"summary": "让改变轻松起来的九个方法",
 		"recommendation": "适合遭遇改变的迷茫者学习",
-		"imageUrl": "https://file.dushu.io/file/1cb0bf258e1c462f87cda9300116397c",
+		"imageUrl": "https://file.dushu.io/file/506f676590d94ca493a3a9fc0103fef6",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 72,
@@ -3745,17 +4245,17 @@
 			"type": 3,
 			"fragmentId": 744,
 			"memberOnly": true,
-			"mediaDuration": 2762
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1559451,
+		"readCount": 2104108,
 		"createTime": 1449849600000
 	}, {
 		"id": 297,
 		"title": "最好的告别",
 		"summary": "优雅过一生，更要优雅地告别此生。最会写作的医生说：思考死亡是为了更好地活着。",
 		"recommendation": "适合对衰老和死亡恐惧者学习",
-		"imageUrl": "https://file.dushu.io/file/b91a93b2bacf48a78f85a93001162820",
+		"imageUrl": "https://file.dushu.io/file/71da4f42df5847c28652a9fc0103f778",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 730,
@@ -3770,17 +4270,17 @@
 			"type": 3,
 			"fragmentId": 729,
 			"memberOnly": true,
-			"mediaDuration": 2495
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1015366,
+		"readCount": 1308127,
 		"createTime": 1449158400000
 	}, {
 		"id": 294,
 		"title": "孔子如来",
 		"summary": "《风流去》作者鲍鹏山教授对孔子言行的客观解读笔记，为我们还原一个真实鲜活的孔子。",
 		"recommendation": "适合国学爱好者学习",
-		"imageUrl": "https://file.dushu.io/file/ce93348188d1422f9185a93100de638f",
+		"imageUrl": "https://file.dushu.io/file/753c89da020048719e48a9fc0103ef15",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 708,
@@ -3795,17 +4295,17 @@
 			"type": 3,
 			"fragmentId": 710,
 			"memberOnly": true,
-			"mediaDuration": 3340
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 916282,
+		"readCount": 1269120,
 		"createTime": 1448640000000
 	}, {
 		"id": 69,
 		"title": "大汗之国",
 		"summary": "这是一本旁观之书，记录了700年间西方人是如何看待中国历史变迁的事。",
 		"recommendation": "适合历史爱好者学习",
-		"imageUrl": "https://file.dushu.io/file/9b8647272ad14d55bf92a93101048e47",
+		"imageUrl": "https://file.dushu.io/file/75a0d4ad470b4d86953ba9fc0103e2b5",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 22,
@@ -3820,17 +4320,17 @@
 			"type": 3,
 			"fragmentId": 688,
 			"memberOnly": true,
-			"mediaDuration": 2257
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 851375,
+		"readCount": 1263907,
 		"createTime": 1448035200000
 	}, {
 		"id": 148,
 		"title": "疯传",
 		"summary": "这本书将告诉你如何才能把产品、思想、行为设计成具有感染力和传播力的内容。",
 		"recommendation": "适合对营销有兴趣者学习",
-		"imageUrl": "https://file.dushu.io/file/7ee8359e42b240cb969fa9310101a42d",
+		"imageUrl": "https://file.dushu.io/file/9bf86cfe0dc241d1ad26a9fc0103da1e",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 68,
@@ -3845,17 +4345,17 @@
 			"type": 3,
 			"fragmentId": 665,
 			"memberOnly": true,
-			"mediaDuration": 3493
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 4090260,
+		"readCount": 5237455,
 		"createTime": 1447344000000
 	}, {
 		"id": 160,
 		"title": "养育男孩",
 		"summary": "我们总觉得男孩顽皮，男孩不如女孩省心，男孩坐不住，但我们有没有真正懂我们的男孩们呢？",
 		"recommendation": "适合家有男孩儿的家长学习",
-		"imageUrl": "https://file.dushu.io/file/22b971f430ad4e958189a9300105d980",
+		"imageUrl": "https://file.dushu.io/file/33300c1cf3f24dfe937fa9fc0103d1bb",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 81,
@@ -3870,17 +4370,17 @@
 			"type": 3,
 			"fragmentId": 648,
 			"memberOnly": true,
-			"mediaDuration": 1951
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2122760,
+		"readCount": 3344934,
 		"createTime": 1446825600000
 	}, {
 		"id": 127,
 		"title": "风流去",
 		"summary": "鲍鹏山眼中的文化人物",
 		"recommendation": "适合对历史人物有兴趣者学习",
-		"imageUrl": "https://file.dushu.io/file/b01d56f4c12a4b5082f1a9300105abb4",
+		"imageUrl": "https://file.dushu.io/file/afe423e5c0414c5eaa4ea9fc0103ca84",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 49,
@@ -3895,17 +4395,17 @@
 			"type": 3,
 			"fragmentId": 621,
 			"memberOnly": true,
-			"mediaDuration": 2803
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 744229,
+		"readCount": 1042214,
 		"createTime": 1446220800000
 	}, {
 		"id": 102,
 		"title": "关键对话",
 		"summary": "本书将帮助你以四两拨千斤的方式，利用各种沟通技巧，解决生活中难以应对的各种难题。",
 		"recommendation": "适合想提升沟通技能者学习",
-		"imageUrl": "https://file.dushu.io/file/ff70483be6814cce977aa9300105bf01",
+		"imageUrl": "https://file.dushu.io/file/9a4d35fb2ef84eac93e1a9fc0103c268",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 40,
@@ -3920,17 +4420,17 @@
 			"type": 3,
 			"fragmentId": 605,
 			"memberOnly": true,
-			"mediaDuration": 1996
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 6586657,
+		"readCount": 10029432,
 		"createTime": 1445616000000
 	}, {
 		"id": 272,
 		"title": "重新定义公司",
 		"summary": "如何充分发挥员工的潜能和创造力，满足客户需求，让企业脱颖而出？首先，我们得改变组织的逻辑！",
 		"recommendation": "谷歌是如何运营的",
-		"imageUrl": "https://file.dushu.io/file/3647f6c08b0647d18a05a9300105eb30",
+		"imageUrl": "https://file.dushu.io/file/cb4cf463393a46f1ae10a9fc0103bb23",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 593,
@@ -3945,17 +4445,17 @@
 			"type": 3,
 			"fragmentId": 594,
 			"memberOnly": true,
-			"mediaDuration": 2676
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 666785,
+		"readCount": 947459,
 		"createTime": 1444924800000
 	}, {
 		"id": 180,
 		"title": "终结拖延症",
 		"summary": "如何告别“拖拉机”称号，实现今日事今日毕？权威专家来拯救你了。",
 		"recommendation": "适合拖延症患者学习",
-		"imageUrl": "https://file.dushu.io/file/ca22f7b5e85145958975a93001064fd3",
+		"imageUrl": "https://file.dushu.io/file/5ba3eb2a204d45cd8997a9fc0103b39c",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 387,
@@ -3970,42 +4470,42 @@
 			"type": 3,
 			"fragmentId": 518,
 			"memberOnly": true,
-			"mediaDuration": 2203
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2187608,
+		"readCount": 3101266,
 		"createTime": 1443196800000
 	}, {
 		"id": 206,
 		"title": "幸福的婚姻",
 		"summary": "我们知道婚姻中的两人不可能永远都是和睦相处的，一本提升男女关系200%的婚姻指南。",
 		"recommendation": "适合对婚姻关系迷茫者学习",
-		"imageUrl": "https://file.dushu.io/file/cc7d452b20cd4c3e838da9300106007c",
+		"imageUrl": "https://file.dushu.io/file/6459b1b321b04bb198ffa9fc0103aae9",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 504,
-			"memberOnly": true,
+			"memberOnly": false,
 			"mediaDuration": 0
 		}, {
 			"type": 2,
 			"fragmentId": 501,
-			"memberOnly": true,
+			"memberOnly": false,
 			"mediaDuration": 2405
 		}, {
 			"type": 3,
 			"fragmentId": 503,
-			"memberOnly": true,
-			"mediaDuration": 2439
+			"memberOnly": false,
+			"mediaDuration": 0
 		}],
-		"memberOnly": true,
-		"readCount": 3919397,
+		"memberOnly": false,
+		"readCount": 6396928,
 		"createTime": 1442505600000
 	}, {
 		"id": 182,
 		"title": "基因革命",
 		"summary": "你所做的事，吃的东西，经历的遭遇都有可能改变你的基因链条，遗传给下一代。",
 		"recommendation": "我们的经历如何改变我们的基因",
-		"imageUrl": "https://file.dushu.io/file/93686426a6404b89bfc2a93001062245",
+		"imageUrl": "https://file.dushu.io/file/720eeaf9d9b64649960ca9fc0103a339",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 422,
@@ -4020,17 +4520,17 @@
 			"type": 3,
 			"fragmentId": 551,
 			"memberOnly": true,
-			"mediaDuration": 2039
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 861819,
+		"readCount": 1425663,
 		"createTime": 1441814400000
 	}, {
 		"id": 183,
 		"title": "刀锋上的行走",
 		"summary": "它写的不是雕塑家的成长，而是一种生活方式，每个人都可以按照自己的理想去生活。",
 		"recommendation": "适合向往自由的行走者学习",
-		"imageUrl": "https://file.dushu.io/file/c57525eaa0eb4b98a4d6a93001060f6d",
+		"imageUrl": "https://file.dushu.io/file/07413f729f6a415f9fd6a9fc0103932e",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 437,
@@ -4045,42 +4545,17 @@
 			"type": 3,
 			"fragmentId": 440,
 			"memberOnly": true,
-			"mediaDuration": 2653
-		}],
-		"memberOnly": true,
-		"readCount": 721984,
-		"createTime": 1441296000000
-	}, {
-		"id": 181,
-		"title": "故道白云",
-		"summary": "正念分明，不落俗套。一行禅师亲笔道出缚悉底尊者修道的心路历程，了解佛陀的伟大一生。",
-		"recommendation": "适合纠结于过去未来者学习",
-		"imageUrl": "https://file.dushu.io/file/d84b59793ce94c8c9fe2a9300106348b",
-		"contents": [{
-			"type": 1,
-			"fragmentId": 404,
-			"memberOnly": true,
 			"mediaDuration": 0
-		}, {
-			"type": 2,
-			"fragmentId": 405,
-			"memberOnly": true,
-			"mediaDuration": 3882
-		}, {
-			"type": 3,
-			"fragmentId": 406,
-			"memberOnly": true,
-			"mediaDuration": 3908
 		}],
 		"memberOnly": true,
-		"readCount": 535395,
-		"createTime": 1440086400000
+		"readCount": 954883,
+		"createTime": 1441296000000
 	}, {
 		"id": 179,
 		"title": "支付战争（下）",
 		"summary": "互联网金融创世纪（下）",
 		"recommendation": "适合想了解互联网金融者学习",
-		"imageUrl": "https://file.dushu.io/file/d3b1931146644a40b52ea9300107122d",
+		"imageUrl": "https://file.dushu.io/file/55afbd5c2ee748fba1d0a9fc01038789",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 367,
@@ -4095,17 +4570,17 @@
 			"type": 3,
 			"fragmentId": 368,
 			"memberOnly": true,
-			"mediaDuration": 1982
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 435574,
+		"readCount": 597686,
 		"createTime": 1438876800000
 	}, {
 		"id": 178,
 		"title": "支付战争（上）",
 		"summary": "互联网金融创世纪（上）",
 		"recommendation": "适合想了解互联网金融者学习",
-		"imageUrl": "https://file.dushu.io/file/993a667939b741a29707a9300106f0a7",
+		"imageUrl": "https://file.dushu.io/file/c347b175ce1947468059a9fc010360f9",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 352,
@@ -4120,17 +4595,17 @@
 			"type": 3,
 			"fragmentId": 351,
 			"memberOnly": true,
-			"mediaDuration": 2315
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 635193,
+		"readCount": 892192,
 		"createTime": 1438272000000
 	}, {
 		"id": 177,
 		"title": "一个广告人的自白",
 		"summary": "本书是奥美创始人大卫·奥格威驰骋广告界的心得体会，也是了解广告业及广告人必读的一本书。",
 		"recommendation": "广告史上对广告人影响最大的书",
-		"imageUrl": "https://file.dushu.io/file/128a1d9120f7475dab76a93001072741",
+		"imageUrl": "https://file.dushu.io/file/68d09fd45c134a87bc29a9fc010351d0",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 318,
@@ -4145,17 +4620,17 @@
 			"type": 3,
 			"fragmentId": 425,
 			"memberOnly": true,
-			"mediaDuration": 2059
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 496359,
+		"readCount": 640955,
 		"createTime": 1437667200000
 	}, {
 		"id": 176,
 		"title": "零边际成本社会",
 		"summary": "一个物联网、合作共赢的新经济时代",
 		"recommendation": "适合对“共享价值”好奇者学习",
-		"imageUrl": "https://file.dushu.io/file/6e7abe1e95b64862a792a93001082df6",
+		"imageUrl": "https://file.dushu.io/file/ee0413153c9e44b29b2da9fc01034731",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 284,
@@ -4170,17 +4645,17 @@
 			"type": 3,
 			"fragmentId": 287,
 			"memberOnly": true,
-			"mediaDuration": 2748
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 671507,
+		"readCount": 935998,
 		"createTime": 1437062400000
 	}, {
 		"id": 175,
 		"title": "认同",
 		"summary": "赢取认同的关键，不在回击反对者，而是保持尊重并坚持己见，争取更多中立的人。",
 		"recommendation": "赢取支持的艺术",
-		"imageUrl": "https://file.dushu.io/file/18b720a1558c43ceb251a9300102985a",
+		"imageUrl": "https://file.dushu.io/file/5facbbe96bbe4ab39f76a9fc01033f0b",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 266,
@@ -4195,17 +4670,17 @@
 			"type": 3,
 			"fragmentId": 269,
 			"memberOnly": true,
-			"mediaDuration": 2083
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1113055,
+		"readCount": 1424287,
 		"createTime": 1436457600000
 	}, {
 		"id": 174,
 		"title": "次第花开",
 		"summary": "在浮躁的年代静静等待次第花开。花开见佛，佛心在诗一样的句子中，直击肺腑。",
 		"recommendation": "适合内心浮躁者学习",
-		"imageUrl": "https://file.dushu.io/file/f889127cea57443b9390a93001030049",
+		"imageUrl": "https://file.dushu.io/file/d1207725c26941c98975a9fc0103374c",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 248,
@@ -4220,17 +4695,17 @@
 			"type": 3,
 			"fragmentId": 250,
 			"memberOnly": true,
-			"mediaDuration": 2718
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2039505,
+		"readCount": 3325088,
 		"createTime": 1435852800000
 	}, {
 		"id": 172,
 		"title": "让孩子远离焦虑",
 		"summary": "不要强迫孩子面对恐惧，要记住孩子是在安全环境中成长起来的，而不是在恐惧的环境中。",
 		"recommendation": "适合想帮助孩子摆脱焦虑者学习",
-		"imageUrl": "https://file.dushu.io/file/86149e683f634bb6ad34a93001031561",
+		"imageUrl": "https://file.dushu.io/file/87535618a44e4e3a8d39a9fc0103301e",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 219,
@@ -4240,22 +4715,22 @@
 			"type": 2,
 			"fragmentId": 316,
 			"memberOnly": true,
-			"mediaDuration": 3023
+			"mediaDuration": 3001
 		}, {
 			"type": 3,
 			"fragmentId": 317,
 			"memberOnly": true,
-			"mediaDuration": 3053
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1482817,
+		"readCount": 2356012,
 		"createTime": 1434643200000
 	}, {
 		"id": 171,
 		"title": "精神问题有什么可笑的",
 		"summary": "与世界搏斗前，先与脑袋里的“怪兽”和解。修炼，你强大外表下的那颗玻璃心。",
 		"recommendation": "适合对精神问题存有戒心者学习",
-		"imageUrl": "https://file.dushu.io/file/bea9a7f5db6a4ee59662a93001035efd",
+		"imageUrl": "https://file.dushu.io/file/bad767379f0f405cbb67a9fc01032a4c",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 175,
@@ -4270,17 +4745,17 @@
 			"type": 3,
 			"fragmentId": 186,
 			"memberOnly": true,
-			"mediaDuration": 2093
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 629343,
+		"readCount": 852267,
 		"createTime": 1434038400000
 	}, {
 		"id": 166,
 		"title": "解压全书：压力管理",
 		"summary": "拒绝被压力裹挟者的压力管理手册：适度的压力，给人生添点活力。",
 		"recommendation": "适合寻找减压技巧和方法者学习",
-		"imageUrl": "https://file.dushu.io/file/a848d79c68954cb59e6fa93001038458",
+		"imageUrl": "https://file.dushu.io/file/66133def49a7475892a2a9fc010322b7",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 144,
@@ -4295,17 +4770,17 @@
 			"type": 3,
 			"fragmentId": 146,
 			"memberOnly": true,
-			"mediaDuration": 2214
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1014843,
+		"readCount": 1776436,
 		"createTime": 1433433600000
 	}, {
 		"id": 170,
 		"title": "创业维艰",
 		"summary": "创业者和管理者面临的种种难题，没有固定的解决套路可循，但有智慧的技巧可借鉴。",
 		"recommendation": "如何完成比难更难的事",
-		"imageUrl": "https://file.dushu.io/file/8a0f146daa814b15b931a930010394ef",
+		"imageUrl": "https://file.dushu.io/file/50c4e5dc99df4e3995b5a9fc01031ad8",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 120,
@@ -4320,42 +4795,17 @@
 			"type": 3,
 			"fragmentId": 122,
 			"memberOnly": true,
-			"mediaDuration": 3221
-		}],
-		"memberOnly": true,
-		"readCount": 699953,
-		"createTime": 1432828800000
-	}, {
-		"id": 168,
-		"title": "特蕾莎修女：奇迹的故事",
-		"summary": "全球所有人的精神粮食",
-		"recommendation": "适合怀疑人性善良与爱的人学习",
-		"imageUrl": "https://file.dushu.io/file/8ed3c6ad8ad649e39d1ea9300103aa60",
-		"contents": [{
-			"type": 1,
-			"fragmentId": 118,
-			"memberOnly": true,
 			"mediaDuration": 0
-		}, {
-			"type": 2,
-			"fragmentId": 217,
-			"memberOnly": true,
-			"mediaDuration": 3028
-		}, {
-			"type": 3,
-			"fragmentId": 218,
-			"memberOnly": true,
-			"mediaDuration": 3048
 		}],
 		"memberOnly": true,
-		"readCount": 723525,
-		"createTime": 1431619200000
+		"readCount": 1071572,
+		"createTime": 1432828800000
 	}, {
 		"id": 167,
 		"title": "创客",
 		"summary": "什么是创客精神？如何成为创客？这个极具时代意义的新潮流，又是一次对世界的颠覆。",
 		"recommendation": "新工业革命缔造者",
-		"imageUrl": "https://file.dushu.io/file/222d2878d5c6422697aaa9300103ba4e",
+		"imageUrl": "https://file.dushu.io/file/1577b919d32840a4bdaaa9fc010314b0",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 116,
@@ -4370,17 +4820,17 @@
 			"type": 3,
 			"fragmentId": 231,
 			"memberOnly": true,
-			"mediaDuration": 2105
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 435227,
+		"readCount": 630180,
 		"createTime": 1431014400000
 	}, {
 		"id": 165,
 		"title": "巴菲特之道",
 		"summary": "将巴菲特思想引进中国的第一本书",
 		"recommendation": "适合对投资有兴趣者学习",
-		"imageUrl": "https://file.dushu.io/file/4714cf25580f4cccab48a9300103c9a6",
+		"imageUrl": "https://file.dushu.io/file/0beec101615342748702a9fc01030d04",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 115,
@@ -4395,17 +4845,17 @@
 			"type": 3,
 			"fragmentId": 121,
 			"memberOnly": true,
-			"mediaDuration": 3201
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 962208,
+		"readCount": 1671910,
 		"createTime": 1430409600000
 	}, {
 		"id": 163,
 		"title": "搞定",
 		"summary": "在事务缠身时，更需要清醒的头脑。不被事情追着跑，搞定你的工作困扰。",
 		"recommendation": "适合职场压力大者学习",
-		"imageUrl": "https://file.dushu.io/file/c685e22e69064a1395f8a9300103da42",
+		"imageUrl": "https://file.dushu.io/file/862cc5b363af4294b07fa9fc01030481",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 113,
@@ -4420,17 +4870,17 @@
 			"type": 3,
 			"fragmentId": 88,
 			"memberOnly": true,
-			"mediaDuration": 2414
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1391753,
+		"readCount": 2059473,
 		"createTime": 1429200000000
 	}, {
 		"id": 162,
 		"title": "联盟",
 		"summary": "互联网时代的人才变革",
 		"recommendation": "适合职场生涯规划者学习",
-		"imageUrl": "https://file.dushu.io/file/20ec900ab84446109d22a9300103eb37",
+		"imageUrl": "https://file.dushu.io/file/51084d58d9084f01a29aa9fc0102e1fd",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 85,
@@ -4445,17 +4895,17 @@
 			"type": 3,
 			"fragmentId": 87,
 			"memberOnly": true,
-			"mediaDuration": 2310
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1044889,
+		"readCount": 1467617,
 		"createTime": 1428595200000
 	}, {
 		"id": 161,
 		"title": "透过佛法看世界",
 		"summary": "一百八十个问题，解答你的人生困惑。透过佛法，放下迷惘，与更好的自己相遇。",
 		"recommendation": "适合对人生充满困惑者学习",
-		"imageUrl": "https://file.dushu.io/file/69e5a6e9d5274d588b05a9300104016d",
+		"imageUrl": "https://file.dushu.io/file/66d0e08fcaed4a03a8d9a9fc0102dad8",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 82,
@@ -4465,22 +4915,22 @@
 			"type": 2,
 			"fragmentId": 83,
 			"memberOnly": true,
-			"mediaDuration": 2749
+			"mediaDuration": 2750
 		}, {
 			"type": 3,
 			"fragmentId": 84,
 			"memberOnly": true,
-			"mediaDuration": 2795
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1121671,
+		"readCount": 1825662,
 		"createTime": 1427990400000
 	}, {
 		"id": 157,
 		"title": "从0到1",
 		"summary": "解读世界运行脉络，分享商业发展逻辑，于意想不到之处让你发现价值与机遇。",
 		"recommendation": "开启商业与未来的秘密",
-		"imageUrl": "https://file.dushu.io/file/21a38e290f6b4326b049a9300104104b",
+		"imageUrl": "https://file.dushu.io/file/49620d8249c64d23802aa9fc0102d194",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 78,
@@ -4495,17 +4945,17 @@
 			"type": 3,
 			"fragmentId": 1177,
 			"memberOnly": true,
-			"mediaDuration": 2572
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1606546,
+		"readCount": 2466986,
 		"createTime": 1425571200000
 	}, {
 		"id": 155,
 		"title": "钝感力",
 		"summary": "不为小事动摇，才能成为大事的赢家。一旦对伤痛钝感，幸福就不知不觉占据了上风。",
 		"recommendation": "适合高敏感人群学习",
-		"imageUrl": "https://file.dushu.io/file/cd27f7afbb8f4a4380fca930010444a0",
+		"imageUrl": "https://file.dushu.io/file/250dd00e95f8449da2d6a9fc0102eb45",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 74,
@@ -4520,17 +4970,17 @@
 			"type": 3,
 			"fragmentId": 76,
 			"memberOnly": true,
-			"mediaDuration": 2079
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1164465,
+		"readCount": 1793133,
 		"createTime": 1423670400000
 	}, {
 		"id": 153,
 		"title": "叛逆不是孩子的错",
 		"summary": "若父母能够读懂孩子叛逆行为背后的心理需要，尊重孩子，亲子冲突就不再是必然的结果了。",
 		"recommendation": "适合4~18岁孩子的父母学习",
-		"imageUrl": "https://file.dushu.io/file/a8ba23d473634d8b90bea93001010be6",
+		"imageUrl": "https://file.dushu.io/file/307d62fbd4d1466c9894a9fc0102f497",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 73,
@@ -4545,17 +4995,17 @@
 			"type": 3,
 			"fragmentId": 141,
 			"memberOnly": true,
-			"mediaDuration": 2346
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1797277,
+		"readCount": 2837631,
 		"createTime": 1423152000000
 	}, {
 		"id": 150,
 		"title": "活出生命的意义",
 		"summary": "如果你对生活的意义有疑问，这是一本能让你痊愈的书。知道为什么而活，便是生活的胜利者。",
 		"recommendation": "适合觉得人生无意义者学习",
-		"imageUrl": "https://file.dushu.io/file/5487a6cba9af4f089f9ba93001012027",
+		"imageUrl": "https://file.dushu.io/file/597af722f4014ca38ac8a9fc0102c7d2",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 70,
@@ -4568,14 +5018,14 @@
 			"mediaDuration": 2768
 		}],
 		"memberOnly": true,
-		"readCount": 1391250,
+		"readCount": 2395211,
 		"createTime": 1421337600000
 	}, {
 		"id": 147,
 		"title": "吸金广告",
 		"summary": "纵横广告界30年，奥美、麦肯等国际知名广告公司培训教材，教你如何赚大钱的文案写作手册。",
 		"recommendation": "史上最赚钱的文案写作手册",
-		"imageUrl": "https://file.dushu.io/file/71208687f658403996d2a93001012f34",
+		"imageUrl": "https://file.dushu.io/file/647c5db709b947c3bf1da9fc0102439e",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 65,
@@ -4590,17 +5040,17 @@
 			"type": 3,
 			"fragmentId": 67,
 			"memberOnly": true,
-			"mediaDuration": 2542
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 629183,
+		"readCount": 887164,
 		"createTime": 1420732800000
 	}, {
 		"id": 144,
 		"title": "怎样才是最好的学习",
 		"summary": "当你埋头读书的时候，有没有想过世界上其他学习者在做什么？",
 		"recommendation": "适合各年龄段终身学习者",
-		"imageUrl": "https://file.dushu.io/file/862551339290455bbee4a9300101410a",
+		"imageUrl": "https://file.dushu.io/file/a7df65f3c65a4ecaa341a9fc01028a5a",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 62,
@@ -4615,42 +5065,17 @@
 			"type": 3,
 			"fragmentId": 3026,
 			"memberOnly": true,
-			"mediaDuration": 2400
-		}],
-		"memberOnly": true,
-		"readCount": 1677844,
-		"createTime": 1418918400000
-	}, {
-		"id": 142,
-		"title": "僧侣与哲学家",
-		"summary": "你对佛教有兴趣又有疑惑？佛教究竟是怎么回事，让哲学家替你问问。",
-		"recommendation": "适合热爱思考人生的人群",
-		"imageUrl": "https://file.dushu.io/file/97ef5c88a6ad4909851ba93001015448",
-		"contents": [{
-			"type": 1,
-			"fragmentId": 58,
-			"memberOnly": true,
 			"mediaDuration": 0
-		}, {
-			"type": 2,
-			"fragmentId": 59,
-			"memberOnly": true,
-			"mediaDuration": 2749
-		}, {
-			"type": 3,
-			"fragmentId": 60,
-			"memberOnly": true,
-			"mediaDuration": 2768
 		}],
 		"memberOnly": true,
-		"readCount": 589554,
-		"createTime": 1417708800000
+		"readCount": 2715919,
+		"createTime": 1418918400000
 	}, {
 		"id": 139,
 		"title": "洗脑术：思想控制的荒唐史",
 		"summary": "人脑真的能被植入思想？历史上各国为此投入的研究恐怕超出你的想象。这是一本关于洗脑的历史！",
 		"recommendation": "思想控制的荒唐史",
-		"imageUrl": "https://file.dushu.io/file/ffac8feb0d4e4355af8ea93001016466",
+		"imageUrl": "https://file.dushu.io/file/1cd91311816f4cbcb886a9fc01027c74",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 55,
@@ -4663,14 +5088,14 @@
 			"mediaDuration": 1932
 		}],
 		"memberOnly": true,
-		"readCount": 927607,
+		"readCount": 1561453,
 		"createTime": 1414425600000
 	}, {
 		"id": 109,
 		"title": "消除压力，从大脑开始",
 		"summary": "战胜不了压力，那就想办法让压力滚蛋。每日耗时5分钟，压力退散！",
 		"recommendation": "适合高压力职场人士学习",
-		"imageUrl": "https://file.dushu.io/file/da97bba707c04696ba78a9300101761f",
+		"imageUrl": "https://file.dushu.io/file/730108627c7e4f4785d6a9fc010275fd",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 43,
@@ -4683,14 +5108,14 @@
 			"mediaDuration": 1907
 		}],
 		"memberOnly": true,
-		"readCount": 1068753,
+		"readCount": 1657137,
 		"createTime": 1401465600000
 	}, {
 		"id": 92,
 		"title": "细节营销",
 		"summary": "本书堪称市场营销学的一股清流，兼具实用与利润，为我们揭开细节营销中的16个大智慧。",
 		"recommendation": "发现你所不知道的营销…",
-		"imageUrl": "https://file.dushu.io/file/2372dd1163ae4337b91aa93001018ac2",
+		"imageUrl": "https://file.dushu.io/file/5c280972f1c5437790d5a9fc01026fd1",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 35,
@@ -4705,17 +5130,17 @@
 			"type": 3,
 			"fragmentId": 37,
 			"memberOnly": true,
-			"mediaDuration": 2397
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1231337,
+		"readCount": 1707581,
 		"createTime": 1397318400000
 	}, {
 		"id": 91,
 		"title": "向前一步",
 		"summary": "当女人勇敢地“往桌前坐”的时候，自然能突破升职加薪的瓶颈。本书只分享女性的成功密码。",
 		"recommendation": "适合追逐成功的女性学习",
-		"imageUrl": "https://file.dushu.io/file/b9609ff8a9da4ebe8844a93001019cf6",
+		"imageUrl": "https://file.dushu.io/file/fc4770fb36994f009bdca9fc0102674e",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 32,
@@ -4730,17 +5155,17 @@
 			"type": 3,
 			"fragmentId": 34,
 			"memberOnly": true,
-			"mediaDuration": 2229
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1235654,
+		"readCount": 2001527,
 		"createTime": 1396800000000
 	}, {
 		"id": 84,
 		"title": "游戏改变世界",
 		"summary": "未来的商业模式，可能都和游戏有关…",
 		"recommendation": "适合想借用游戏改变世界者学习",
-		"imageUrl": "https://file.dushu.io/file/97185c13b7c248e898aea9300101aed9",
+		"imageUrl": "https://file.dushu.io/file/60be0209da9b461b895ba9fc01025d66",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 31,
@@ -4755,17 +5180,17 @@
 			"type": 3,
 			"fragmentId": 461,
 			"memberOnly": true,
-			"mediaDuration": 2385
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1124898,
+		"readCount": 1782192,
 		"createTime": 1396195200000
 	}, {
 		"id": 76,
 		"title": "管理十诫",
 		"summary": "影响你一生的管理哲学",
 		"recommendation": "适合立志成为高管精英者学习",
-		"imageUrl": "https://file.dushu.io/file/c864e93f73d44d3f856ca9300101c00b",
+		"imageUrl": "https://file.dushu.io/file/f8ead222301040989e1ea9fc010254d9",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 27,
@@ -4775,22 +5200,22 @@
 			"type": 2,
 			"fragmentId": 28,
 			"memberOnly": true,
-			"mediaDuration": 1839
+			"mediaDuration": 1642
 		}, {
 			"type": 3,
 			"fragmentId": 29,
 			"memberOnly": true,
-			"mediaDuration": 1839
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1397773,
+		"readCount": 2549173,
 		"createTime": 1394726400000
 	}, {
 		"id": 72,
 		"title": "金钱不能买什么",
 		"summary": "在这个“市场驱动”时代，我们该如何保护为市场所不敬、金钱所不及的道德？",
 		"recommendation": "适合追求社会效用最大化者学习",
-		"imageUrl": "https://file.dushu.io/file/c097a4a3d4844a59b82da9300100700e",
+		"imageUrl": "https://file.dushu.io/file/f98f8cf359e748c595cba9fc01019372",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 23,
@@ -4805,17 +5230,17 @@
 			"type": 3,
 			"fragmentId": 25,
 			"memberOnly": true,
-			"mediaDuration": 1840
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 673038,
+		"readCount": 992854,
 		"createTime": 1393516800000
 	}, {
 		"id": 65,
 		"title": "孔子，人能弘道",
 		"summary": "颜回敏而好学，子路率直勇敢，子贡谦虚精明……他们为了追求理想人格而与孔子相遇。",
 		"recommendation": "适合对儒学传统有兴趣者学习",
-		"imageUrl": "https://file.dushu.io/file/b500e671635c4ad295eea93000ae3f51",
+		"imageUrl": "https://file.dushu.io/file/a66429d8df2f4e6c8f11a9fc00ff69ba",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 20,
@@ -4830,17 +5255,17 @@
 			"type": 3,
 			"fragmentId": 817,
 			"memberOnly": true,
-			"mediaDuration": 3100
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1173477,
+		"readCount": 1759768,
 		"createTime": 1390233600000
 	}, {
 		"id": 55,
 		"title": "第3选择",
 		"summary": "超越你的或我的方式，设法找到更高明的方法，从冲突中找到一条出路，我们称之为第3选择。",
 		"recommendation": "解决所有难题的关键思维",
-		"imageUrl": "https://file.dushu.io/file/d6ccb6d143fa410592f8a93000feea1b",
+		"imageUrl": "https://file.dushu.io/file/18a4ae562db041949ecda9fc00ff5697",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 18,
@@ -4855,42 +5280,17 @@
 			"type": 3,
 			"fragmentId": 386,
 			"memberOnly": true,
-			"mediaDuration": 3820
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2519470,
+		"readCount": 3853611,
 		"createTime": 1388764800000
-	}, {
-		"id": 52,
-		"title": "正念的奇迹",
-		"summary": "生活不在从前，不在未来，就在当下。当你把思绪拉回到当下，奇迹就发生了。",
-		"recommendation": "适合心有杂念者学习",
-		"imageUrl": "https://file.dushu.io/file/898a012efa2f4282b0b0a9130114e5cc",
-		"contents": [{
-			"type": 1,
-			"fragmentId": 15,
-			"memberOnly": true,
-			"mediaDuration": 0
-		}, {
-			"type": 2,
-			"fragmentId": 16,
-			"memberOnly": true,
-			"mediaDuration": 2082
-		}, {
-			"type": 3,
-			"fragmentId": 17,
-			"memberOnly": true,
-			"mediaDuration": 2088
-		}],
-		"memberOnly": false,
-		"readCount": 4577977,
-		"createTime": 1388160000000
 	}, {
 		"id": 18,
 		"title": "斯坦福大学最受欢迎的创意课",
 		"summary": "令你的工作和生活充满创新方法的一本书",
 		"recommendation": "适合意欲提高创意思维者学习",
-		"imageUrl": "https://file.dushu.io/file/03c3cba9dacb405baf44a930011de293",
+		"imageUrl": "https://file.dushu.io/file/778fdf6ce550483582a5a9fc00ff42d0",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 2,
@@ -4905,17 +5305,17 @@
 			"type": 3,
 			"fragmentId": 4,
 			"memberOnly": true,
-			"mediaDuration": 1832
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 830948,
+		"readCount": 1186077,
 		"createTime": 1387296000000
 	}, {
 		"id": 19,
 		"title": "你就是孩子最好的玩具",
 		"summary": "我们或许都是第一次当父母，但孩子只有一次成长的机会。",
 		"recommendation": "适合所有为人父母者学习",
-		"imageUrl": "https://file.dushu.io/file/31a1e0d620274df19157a93001028253",
+		"imageUrl": "https://file.dushu.io/file/8587bca43da7428eb936a9fc00ff35ec",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 5,
@@ -4930,17 +5330,17 @@
 			"type": 3,
 			"fragmentId": 7,
 			"memberOnly": true,
-			"mediaDuration": 1991
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 2707271,
+		"readCount": 4249514,
 		"createTime": 1386000000000
 	}, {
 		"id": 20,
 		"title": "幸福的方法",
 		"summary": "如果生活不幸，那就学习如何幸福。幸福是衡量一切的最高标准，但目标是意义而不是结局。",
 		"recommendation": "适合追求幸福生活质量者学习",
-		"imageUrl": "https://file.dushu.io/file/08795845d6e640c49f62a930011e0850",
+		"imageUrl": "https://file.dushu.io/file/ffd910faec7147298453a9fc00fee881",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 8,
@@ -4955,17 +5355,17 @@
 			"type": 3,
 			"fragmentId": 10,
 			"memberOnly": true,
-			"mediaDuration": 1734
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 4337629,
+		"readCount": 6214823,
 		"createTime": 1385308800000
 	}, {
 		"id": 22,
 		"title": "高效演讲",
 		"summary": "浓缩斯坦福教授20余年演讲培训经验，帮你洞悉紧张的深层原因，彻底摆脱当众讲话的恐惧。",
 		"recommendation": "一本真正教会你演讲的书",
-		"imageUrl": "https://file.dushu.io/file/1080ea0cc1ac4d4a9fe9a930011e62a4",
+		"imageUrl": "https://file.dushu.io/file/be53a53b9151467f9685a9fc00ff25b8",
 		"contents": [{
 			"type": 1,
 			"fragmentId": 12,
@@ -4980,13 +5380,13 @@
 			"type": 3,
 			"fragmentId": 14,
 			"memberOnly": true,
-			"mediaDuration": 1945
+			"mediaDuration": 0
 		}],
 		"memberOnly": true,
-		"readCount": 1965426,
+		"readCount": 2687873,
 		"createTime": 1383321600000
 	}],
 	"status": 1,
 	"statusCode": 0,
-	"systemTimeSpan": 1540884904176
+	"systemTimeSpan": 1552377142011
 }
